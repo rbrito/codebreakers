@@ -18,7 +18,7 @@ programas de computador
 
 5
 00:00:18,900 --> 00:00:21,475
-quase todos eles piratas.
+quase todos piratas.
 
 6
 00:00:23,100 --> 00:00:24,600
@@ -28,7 +28,7 @@ mundo, no Brasil,
 7
 00:00:24,630 --> 00:00:27,900
 um mercado diferente,
-mas a mesma história.
+mas a mesma história:
 
 8
 00:00:27,950 --> 00:00:28,900
@@ -41,20 +41,20 @@ DVDs e software piratas
 
 10
 00:00:31,950 --> 00:00:34,100
-improvisando em "lojas" de lona.
+em "lojas" improvisadas de lona.
 
 11
 00:00:34,900 --> 00:00:37,900
-A pirataria de software é
+Pirataria de software é
 tão comum que os vendedores
 
 12
 00:00:37,950 --> 00:00:40,100
-mal ligam para a polícia.
+nem ligam para a polícia.
 
 13
 00:00:40,150 --> 00:00:42,100
-Logo que ela vira a esquina,
+Assim que ela vira a esquina,
 
 14
 00:00:42,150 --> 00:00:44,000
@@ -63,20 +63,20 @@ eles montam suas barracas de novo.
 15
 00:00:47,100 --> 00:00:48,900
 A oferta satisfaz a demanda
-em países onde o
+em países onde
 
 16
 00:00:48,950 --> 00:00:51,300
-trabalhador médio de um
+um trabalhador médio de
 escritório teria que trabalhar
 
 17
 00:00:51,350 --> 00:00:52,500
-por mais de um mês para ser capaz
+mais de um mês para poder
 
 18
 00:00:52,550 --> 00:00:55,200
-de comprar software legalmente.
+comprar software legalmente.
 
 19
 00:00:55,950 --> 00:00:58,900
@@ -111,11 +111,11 @@ Eles têm uma coisa em comum
 
 26
 00:01:11,350 --> 00:01:12,900
-com o software pirata.
+com o software pirata:
 
 27
 00:01:13,200 --> 00:01:15,150
-Da mesma forma que
+da mesma forma que
 os piratas ilegalmente
 
 28
