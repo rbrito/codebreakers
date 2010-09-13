@@ -4,12 +4,12 @@ The Codebreakers
 
 2
 00:00:14,000 --> 00:00:15,490
-Na Tail√¢ndia,
+Na Tail‚ndia,
 
 3
 00:00:15,520 --> 00:00:17,200
-voc√™ pode obter uma
-intermin√°vel oferta
+vocÍ pode obter uma
+intermin·vel oferta
 
 4
 00:00:17,250 --> 00:00:18,650
@@ -28,7 +28,7 @@ mundo, no Brasil,
 7
 00:00:24,630 --> 00:00:27,900
 um mercado diferente,
-mas a mesma hist√≥ria.
+mas a mesma histÛria.
 
 8
 00:00:27,950 --> 00:00:28,900
@@ -45,12 +45,12 @@ improvisando em "lojas" de lona.
 
 11
 00:00:34,900 --> 00:00:37,900
-A pirataria de software √©
-t√£o comum que os vendedores
+A pirataria de software È
+t„o comum que os vendedores
 
 12
 00:00:37,950 --> 00:00:40,100
-mal ligam para a pol√≠cia.
+mal ligam para a polÌcia.
 
 13
 00:00:40,150 --> 00:00:42,100
@@ -63,16 +63,16 @@ eles montam suas barracas de novo.
 15
 00:00:47,100 --> 00:00:48,900
 A oferta satisfaz a demanda
-em pa√≠ses onde o
+em paÌses onde o
 
 16
 00:00:48,950 --> 00:00:51,300
-trabalhador m√©dio de um
-escrit√≥rio teria que trabalhar
+trabalhador mÈdio de um
+escritÛrio teria que trabalhar
 
 17
 00:00:51,350 --> 00:00:52,500
-por mais de um m√™s para ser capaz
+por mais de um mÍs para ser capaz
 
 18
 00:00:52,550 --> 00:00:55,200
@@ -81,16 +81,16 @@ de comprar software legalmente.
 19
 00:00:55,950 --> 00:00:58,900
 O Encontro Mundial sobre a
-Sociedade da Informa√ß√£o na Tun√≠sia,
+Sociedade da InformaÁ„o na TunÌsia,
 
 20
 00:00:58,950 --> 00:01:02,100
-uma reuni√£o global de
+uma reuni„o global de
 decisores-chave em TI,
 
 21
 00:01:02,150 --> 00:01:04,900
-ou Tecnologia da Informa√ß√£o,
+ou Tecnologia da InformaÁ„o,
 de todo o globo
 
 22
@@ -99,7 +99,7 @@ promovem os seus produtos,
 
 23
 00:01:06,350 --> 00:01:07,300
-interc√¢mbio de id√©ias
+interc‚mbio de idÈias
 
 24
 00:01:07,350 --> 00:01:09,300
@@ -107,7 +107,7 @@ e tentam mudar o mundo.
 
 25
 00:01:09,950 --> 00:01:11,300
-Eles t√™m uma coisa em comum
+Eles tÍm uma coisa em comum
 
 26
 00:01:11,350 --> 00:01:12,900
@@ -120,20 +120,20 @@ os piratas ilegalmente
 
 28
 00:01:15,200 --> 00:01:17,100
-tornam o software acess√≠vel,
+tornam o software acessÌvel,
 
 29
 00:01:17,500 --> 00:01:18,900
-o Secret√°rio-Geral da ONU
+o Secret·rio-Geral da ONU
 
 30
 00:01:18,950 --> 00:01:21,900
 e muitos dos delegados
-aqui tamb√©m querem fazer
+aqui tambÈm querem fazer
 
 31
 00:01:21,950 --> 00:01:24,300
-o software acess√≠vel para
+o software acessÌvel para
 os marginalizados digitais
 
 32
@@ -143,7 +143,7 @@ mas legalmente.
 33
 00:01:26,300 --> 00:01:28,250
 O laptop de US$100 do
-vision√°rio tecnol√≥gico
+vision·rio tecnolÛgico
 
 34
 00:01:28,300 --> 00:01:30,600
@@ -151,12 +151,12 @@ Nicholas Negroponte
 
 35
 00:01:30,650 --> 00:01:33,100
-pretende p√¥r tecnologia
-inform√°tica acess√≠vel
+pretende pÙr tecnologia
+inform·tica acessÌvel
 
 36
 00:01:33,150 --> 00:01:35,800
-nas m√£os de milh√µes de alunos
+nas m„os de milhıes de alunos
 
 37
 00:01:36,000 --> 00:01:37,500
@@ -174,12 +174,12 @@ Livre e Aberto
 
 40
 00:01:43,100 --> 00:01:44,900
-porque √© melhor,
+porque È melhor,
 
 41
 00:01:44,950 --> 00:01:47,900
 e porque significa
-que as crian√ßas
+que as crianÁas
 
 42
 00:01:47,950 --> 00:01:52,400
@@ -197,7 +197,7 @@ software desenvolvido pela comunidade,
 
 45
 00:01:57,950 --> 00:01:58,900
-bem como conte√∫do.
+bem como conte˙do.
 
 46
 00:01:59,950 --> 00:02:02,900
@@ -205,16 +205,16 @@ Software Livre e Open Source ou FOSS
 
 47
 00:02:02,950 --> 00:02:05,100
-√© o mais recente
-fen√¥meno em computa√ß√£o
+È o mais recente
+fenÙmeno em computaÁ„o
 
 48
 00:02:05,200 --> 00:02:07,400
-e est√° causando turbul√™ncia no mundo de
+e est· causando turbulÍncia no mundo de
 
 49
 00:02:07,450 --> 00:02:09,500
-software comercial ou propriet√°rio.
+software comercial ou propriet·rio.
 
 50
 00:02:10,300 --> 00:02:11,200
@@ -240,7 +240,7 @@ os desktops e laptops
 
 55
 00:02:21,050 --> 00:02:24,000
-do mundo usam software propriet√°rio
+do mundo usam software propriet·rio
 
 56
 00:02:24,100 --> 00:02:26,500
@@ -248,7 +248,7 @@ como de empresas como a Apple ou Microsoft,
 
 57
 00:02:27,550 --> 00:02:30,000
-Eles v√™em software livre como uma amea√ßa.
+Eles vÍem software livre como uma ameaÁa.
 
 58
 00:02:30,150 --> 00:02:32,100
@@ -257,13 +257,13 @@ representa para a Microsoft
 
 59
 00:02:32,150 --> 00:02:34,300
-√© que ele nos lembra que
-os clientes t√™m escolha.
+È que ele nos lembra que
+os clientes tÍm escolha.
 
 60
 00:02:34,500 --> 00:02:37,500
-Quando voc√™ lembra que
-os clientes t√™m escolha,
+Quando vocÍ lembra que
+os clientes tÍm escolha,
 
 61
 00:02:37,550 --> 00:02:39,800
@@ -272,38 +272,38 @@ e sempre nos lembramos disso,
 62
 00:02:39,850 --> 00:02:41,300
 isso te lembra que
-voc√™ tem que trabalhar,
+vocÍ tem que trabalhar,
 
 63
 00:02:41,350 --> 00:02:43,200
-que voc√™ tem que
+que vocÍ tem que
 ouvir os seus clientes,
 
 64
 00:02:43,250 --> 00:02:45,400
-que voc√™ tem que
-investir US$6 bilh√µes em P&D
+que vocÍ tem que
+investir US$6 bilhıes em P&D
 
 65
 00:02:45,450 --> 00:02:47,600
-que n√≥s vamos investir este ano
+que nÛs vamos investir este ano
 
 66
 00:02:47,650 --> 00:02:50,000
-que v√£o ao encontro das
+que v„o ao encontro das
 necessidades desses clientes.
 
 67
 00:02:50,400 --> 00:02:51,900
-Ent√£o, √© Software Livre a ponte para a
+Ent„o, È Software Livre a ponte para a
 
 68
 00:02:51,950 --> 00:02:53,900
-famosa exclus√£o digital?
+famosa exclus„o digital?
 
 69
 00:02:53,950 --> 00:02:55,000
-Com inova√ß√µes
+Com inovaÁıes
 
 70
 00:02:55,100 --> 00:02:57,000
@@ -311,11 +311,11 @@ tais como o computador de US$100,
 
 71
 00:02:57,100 --> 00:02:59,100
-trabalhando com software livre sem licen√ßa
+trabalhando com software livre sem licenÁa
 
 72
 00:02:59,150 --> 00:03:02,000
-com 1 bilh√£o de usu√°rios on-line a mais?
+com 1 bilh„o de usu·rios on-line a mais?
 
 73
 00:03:03,650 --> 00:03:05,600
@@ -323,7 +323,7 @@ No Codebreakers, vamos descobrir
 
 74
 00:03:05,650 --> 00:03:08,400
-se software livre √© sempre de alta qualidade
+se software livre È sempre de alta qualidade
 
 75
 00:03:08,950 --> 00:03:10,500
@@ -331,7 +331,7 @@ e pode ser a ponte
 
 76
 00:03:10,650 --> 00:03:12,400
-para a exclus√£o digital?
+para a exclus„o digital?
 
 77
 00:03:12,500 --> 00:03:14,000
@@ -339,8 +339,8 @@ Pode-se considerar Open Source Software
 
 78
 00:03:14,100 --> 00:03:17,900
-como medicamentos gen√©ricos.
-A analogia √© boa.
+como medicamentos genÈricos.
+A analogia È boa.
 
 79
 00:03:17,950 --> 00:03:19,900
@@ -348,11 +348,11 @@ No caso de software aberto,
 
 80
 00:03:19,950 --> 00:03:22,600
-tudo √© muito menos caro e, por esse motivo,
+tudo È muito menos caro e, por esse motivo,
 
 81
 00:03:22,650 --> 00:03:24,200
-√© essencialmente o mesmo produto
+È essencialmente o mesmo produto
 
 82
 00:03:24,250 --> 00:03:26,000
@@ -373,11 +373,11 @@ projetos Open Source em desenvolvimento.
 86
 00:03:33,700 --> 00:03:35,950
 Nem um centavo foi pago
-pelos usu√°rios do computador
+pelos usu·rios do computador
 
 87
 00:03:36,000 --> 00:03:38,900
-que baixaram 50 milh√µes de c√≥pias
+que baixaram 50 milhıes de cÛpias
 
 88
 00:03:38,950 --> 00:03:40,900
@@ -391,13 +391,13 @@ a partir do Netscape
 
 90
 00:03:43,250 --> 00:03:46,000
-pela Funda√ß√£o Mozilla,
+pela FundaÁ„o Mozilla,
 sem fins lucrativos.
 
 91
 00:03:46,150 --> 00:03:48,900
 Ele tem agora uma
-participa√ß√£o de 20% na Europa
+participaÁ„o de 20% na Europa
 
 92
 00:03:48,950 --> 00:03:51,900
@@ -409,7 +409,7 @@ O Apache, o servidor livre de Web
 
 94
 00:03:56,550 --> 00:03:58,900
-√© utilizado por mais de 60% de todos os sites
+È utilizado por mais de 60% de todos os sites
 
 95
 00:03:58,950 --> 00:04:01,900
@@ -421,11 +421,11 @@ como a Google e a Amazon.
 
 97
 00:04:05,000 --> 00:04:07,200
-Ent√£o, est√° acontecendo uma revolu√ß√£o?
+Ent„o, est· acontecendo uma revoluÁ„o?
 
 98
 00:04:07,550 --> 00:04:10,100
-Os dias do software propriet√°rio est√£o contados?
+Os dias do software propriet·rio est„o contados?
 
 99
 00:04:10,150 --> 00:04:12,000
@@ -433,7 +433,7 @@ Agora que o software tornou-se
 
 100
 00:04:12,050 --> 00:04:14,900
-livre e aberto, ser√° que o abismo digital
+livre e aberto, ser· que o abismo digital
 
 101
 00:04:14,950 --> 00:04:18,000
@@ -441,15 +441,15 @@ entre os pobres e os ricos deve fechar?
 
 102
 00:04:19,000 --> 00:04:22,000
-Cap√≠tulo 1: As Quatro Liberdades
+CapÌtulo 1: As Quatro Liberdades
 
 103
 00:04:24,000 --> 00:04:26,700
-S√≥ acad√™micos de meia-idade lembrar√£o
+SÛ acadÍmicos de meia-idade lembrar„o
 
 104
 00:04:26,750 --> 00:04:28,000
-que mais de duas d√©cadas atr√°s
+que mais de duas dÈcadas atr·s
 
 105
 00:04:28,050 --> 00:04:30,000
@@ -457,7 +457,7 @@ quando computadores chegaram a universidades
 
 106
 00:04:30,050 --> 00:04:33,300
-que o c√≥digo fonte era livremente trocado
+que o cÛdigo fonte era livremente trocado
 
 107
 00:04:33,350 --> 00:04:35,200
@@ -465,18 +465,18 @@ e programadores eram pagos
 
 108
 00:04:35,250 --> 00:04:38,500
-para programar e n√£o para os
+para programar e n„o para os
 programas propriamente ditos.
 
 109
 00:04:38,550 --> 00:04:41,400
-Da√≠, as coisas mudaram,
+DaÌ, as coisas mudaram,
 quando computadores entraram
 
 110
 00:04:41,450 --> 00:04:43,500
-no mundo dos neg√≥cios e
-as empresas come√ßaram
+no mundo dos negÛcios e
+as empresas comeÁaram
 
 111
 00:04:43,550 --> 00:04:45,400
@@ -488,7 +488,7 @@ de forma comercial,
 
 113
 00:04:47,050 --> 00:04:49,000
-restringindo o acesso ao c√≥digo fonte.
+restringindo o acesso ao cÛdigo fonte.
 
 114
 00:04:49,300 --> 00:04:51,000
@@ -504,7 +504,7 @@ questionou o software comercial,
 
 117
 00:04:54,750 --> 00:04:55,900
-a√ß√µes de empresas
+aÁıes de empresas
 
 118
 00:04:55,950 --> 00:04:56,900
@@ -520,20 +520,20 @@ O que posso fazer?
 
 121
 00:05:01,000 --> 00:05:04,900
-Eu n√£o tinha partido
-pol√≠tico atr√°s de mim,
+Eu n„o tinha partido
+polÌtico atr·s de mim,
 
 122
 00:05:04,950 --> 00:05:06,000
-n√£o podia esperar convencer
+n„o podia esperar convencer
 
 123
 00:05:06,050 --> 00:05:08,000
-governos ou corpora√ß√µes
+governos ou corporaÁıes
 
 124
 00:05:08,300 --> 00:05:10,300
-para alterar suas pol√≠ticas,
+para alterar suas polÌticas,
 
 125
 00:05:10,350 --> 00:05:13,200
@@ -541,7 +541,7 @@ mas eu sei escrever software.
 
 126
 00:05:13,250 --> 00:05:15,300
-ent√£o eu disse: "Eu vou desenvolver
+ent„o eu disse: "Eu vou desenvolver
 
 127
 00:05:15,350 --> 00:05:17,000
@@ -553,11 +553,11 @@ e com a ajuda de quem quiser se aliar
 
 129
 00:05:19,550 --> 00:05:22,900
-e juntos vamos torn√°-lo software livre.
+e juntos vamos torn·-lo software livre.
 
 130
 00:05:22,950 --> 00:05:24,100
-N√≥s respeitaremos sua liberdade.
+NÛs respeitaremos sua liberdade.
 
 131
 00:05:24,600 --> 00:05:26,900
@@ -565,7 +565,7 @@ Richard Stallman inventou sua
 
 132
 00:05:26,950 --> 00:05:28,900
-pr√≥pria licen√ßa de Software Livre,
+prÛpria licenÁa de Software Livre,
 
 133
 00:05:28,950 --> 00:05:30,900
@@ -578,29 +578,29 @@ como as quatro liberdades.
 135
 00:05:31,950 --> 00:05:35,500
 Liberdade 0:
-√© a liberdade de executar
+È a liberdade de executar
 
 136
 00:05:35,550 --> 00:05:36,900
-o programa como voc√™ desejar.
+o programa como vocÍ desejar.
 
 137
 00:05:36,950 --> 00:05:40,900
 Liberdade 1:
-√© a liberdade de ajudar a si pr√≥prio.
+È a liberdade de ajudar a si prÛprio.
 
 138
 00:05:40,950 --> 00:05:42,900
-√â a liberdade de estudar o
+… a liberdade de estudar o
 
 139
 00:05:42,950 --> 00:05:45,900
-c√≥digo fonte e mud√°-lo
+cÛdigo fonte e mud·-lo
 para fazer o que quiser.
 
 140
 00:05:45,950 --> 00:05:47,500
-Ent√£o, h√° a Liberdade 2,
+Ent„o, h· a Liberdade 2,
 
 141
 00:05:47,550 --> 00:05:48,900
@@ -608,11 +608,11 @@ a liberdade para ajudar o seus amigos.
 
 142
 00:05:48,950 --> 00:05:51,900
-Essa √© a liberdade de fazer c√≥pias
+Essa È a liberdade de fazer cÛpias
 
 143
 00:05:51,950 --> 00:05:53,900
-e distribuir a outros quando voc√™ desejar.
+e distribuir a outros quando vocÍ desejar.
 
 144
 00:05:53,950 --> 00:05:55,900
@@ -620,32 +620,32 @@ Liberdade 3
 
 145
 00:05:55,950 --> 00:05:57,900
-√© a liberdade para ajudar a sua comunidade.
+È a liberdade para ajudar a sua comunidade.
 
 146
 00:05:57,950 --> 00:06:00,900
-Essa √© a liberdade de
+Essa È a liberdade de
 publicar ou distribuir
 
 147
 00:06:00,950 --> 00:06:02,900
-vers√µes modificadas quando quiser.
+versıes modificadas quando quiser.
 
 148
 00:06:02,950 --> 00:06:05,900
-Se voc√™ tiver todas as quatro liberdades,
+Se vocÍ tiver todas as quatro liberdades,
 
 149
 00:06:05,950 --> 00:06:07,900
-o programa √© software livre.
+o programa È software livre.
 
 150
 00:06:09,700 --> 00:06:12,000
-O pr√≥ximo desenvolvimento veio em 1991.
+O prÛximo desenvolvimento veio em 1991.
 
 151
 00:06:12,950 --> 00:06:13,500
-Um programador de computador finland√™s
+Um programador de computador finlandÍs
 
 152
 00:06:13,550 --> 00:06:14,900
@@ -661,13 +661,13 @@ o que se conhece como kernel,
 
 155
 00:06:18,950 --> 00:06:21,900
-o n√∫cleo do sistema operacional
+o n˙cleo do sistema operacional
 e chamou-lhe Linux.
 
 156
 00:06:21,950 --> 00:06:25,900
 Seus defensores dizem que
-ele funciona t√£o bem
+ele funciona t„o bem
 
 157
 00:06:25,950 --> 00:06:28,000
@@ -676,7 +676,7 @@ supercomputador.
 
 158
 00:06:28,050 --> 00:06:31,000
-A inven√ß√£o de Torvalds pode ser obtida
+A invenÁ„o de Torvalds pode ser obtida
 
 159
 00:06:31,150 --> 00:06:33,000
@@ -688,7 +688,7 @@ Segundo "The Linux Counter"
 
 161
 00:06:35,150 --> 00:06:37,900
-um site pr√≥-Open Source
+um site prÛ-Open Source
 
 162
 00:06:38,000 --> 00:06:39,500
@@ -696,15 +696,15 @@ Estima-se que haja
 
 163
 00:06:39,550 --> 00:06:41,900
-29 milh√µes de computadores com Linux,
+29 milhıes de computadores com Linux,
 
 164
 00:06:41,950 --> 00:06:43,500
-mas, como ele n√£o √© vendido,
+mas, como ele n„o È vendido,
 
 165
 00:06:43,950 --> 00:06:46,900
-n√£o h√° n√∫meros em que basear a estimativa.
+n„o h· n˙meros em que basear a estimativa.
 
 166
 00:06:48,000 --> 00:06:49,500
@@ -712,28 +712,28 @@ Nunca ouvi falar de FOSS.
 
 167
 00:06:49,550 --> 00:06:51,400
-N√£o, nunca ouvi falar de FOSS.
+N„o, nunca ouvi falar de FOSS.
 
 168
 00:06:51,600 --> 00:06:53,900
-N√£o, eu n√£o sei o que √© FOSS.
+N„o, eu n„o sei o que È FOSS.
 
 169
 00:06:54,100 --> 00:06:58,500
-Eu j√° ouvi falar de
+Eu j· ouvi falar de
 Software Livre e Aberto.
 
 170
 00:06:58,550 --> 00:07:00,900
-N√£o, nunca ouvi falar de FOSS.
+N„o, nunca ouvi falar de FOSS.
 
 171
 00:07:00,950 --> 00:07:02,800
-N√£o, eu nunca ouvi falar de FOSS.
+N„o, eu nunca ouvi falar de FOSS.
 
 172
 00:07:02,850 --> 00:07:04,800
-N√£o sei o que √©.
+N„o sei o que È.
 
 173
 00:07:05,200 --> 00:07:06,500
@@ -741,11 +741,11 @@ Eu nunca ouvi falar de FOSS.
 
 174
 00:07:06,700 --> 00:07:09,200
-N√£o sei o que √©. O que √©?
+N„o sei o que È. O que È?
 
 175
 00:07:09,600 --> 00:07:11,500
-Sim, conhe√ßo Software Livre e C√≥digo Aberto
+Sim, conheÁo Software Livre e CÛdigo Aberto
 
 176
 00:07:11,550 --> 00:07:12,900
@@ -761,7 +761,7 @@ Software Livre e Open Source
 
 179
 00:07:17,250 --> 00:07:20,100
-pode n√£o ser conhecido pelo nome,
+pode n„o ser conhecido pelo nome,
 mas indiretamente,
 
 180
@@ -774,7 +774,7 @@ usa software livre o tempo todo
 
 182
 00:07:25,150 --> 00:07:26,950
-j√° que a base da Internet,
+j· que a base da Internet,
 
 183
 00:07:27,000 --> 00:07:31,500
@@ -782,7 +782,7 @@ os servidores de Web, de e-mail e de FTP,
 
 184
 00:07:31,550 --> 00:07:33,500
-√© quase toda Open Source.
+È quase toda Open Source.
 
 185
 00:07:33,550 --> 00:07:35,450
@@ -794,15 +794,15 @@ Embora Richard Stallman queria dizer
 
 187
 00:07:37,550 --> 00:07:39,500
-e n√£o "livre" como "gr√°tis",
+e n„o "livre" como "gr·tis",
 
 188
 00:07:39,550 --> 00:07:40,800
-isso poderia causar confus√£o.
+isso poderia causar confus„o.
 
 189
 00:07:40,850 --> 00:07:42,800
-Nem todos compreenderam a id√©ia.
+Nem todos compreenderam a idÈia.
 
 190
 00:07:42,850 --> 00:07:44,800
@@ -822,11 +822,11 @@ Em 1998, a Iniciativa Open Source--
 
 194
 00:07:51,550 --> 00:07:53,500
-uma organiza√ß√£o dedicada √† promo√ß√£o
+uma organizaÁ„o dedicada ‡ promoÁ„o
 
 195
 00:07:53,550 --> 00:07:56,400
-de Software Livre e de c√≥digo aberto foi fundada
+de Software Livre e de cÛdigo aberto foi fundada
 
 196
 00:07:56,450 --> 00:07:57,800
@@ -839,11 +839,11 @@ Eric Raymond e Bruce Perens
 198
 00:07:59,850 --> 00:08:02,100
 que viram que a palavra "livre"
-poderia ser substitu√≠da
+poderia ser substituÌda
 
 199
 00:08:02,150 --> 00:08:05,500
-por "aberto" e que isso evitaria a confus√£o.
+por "aberto" e que isso evitaria a confus„o.
 
 200
 00:08:06,150 --> 00:08:08,500
@@ -851,11 +851,11 @@ Open Source pega Software Livre
 
 201
 00:08:08,550 --> 00:08:11,100
-e o promove a empres√°rios.
+e o promove a empres·rios.
 
 202
 00:08:11,150 --> 00:08:15,400
-Quando dizemos "free" isso n√£o significa "livre"
+Quando dizemos "free" isso n„o significa "livre"
 
 203
 00:08:15,450 --> 00:08:17,200
@@ -863,11 +863,11 @@ mas significa "barato" e isso
 
 204
 00:08:17,250 --> 00:08:20,200
-n√£o parece bom para empres√°rios.
+n„o parece bom para empres·rios.
 
 205
 00:08:21,000 --> 00:08:23,800
-Ent√£o, renomeando FREE software como OPEN,
+Ent„o, renomeando FREE software como OPEN,
 
 206
 00:08:23,850 --> 00:08:26,500
@@ -875,7 +875,7 @@ Bruce Perens e seus colegas esperavam
 
 207
 00:08:26,550 --> 00:08:28,500
-que um novo modelo de neg√≥cios que surgisse.
+que um novo modelo de negÛcios que surgisse.
 
 208
 00:08:29,300 --> 00:08:30,900
@@ -887,33 +887,33 @@ e hardware, listada na Fortune 500,
 
 210
 00:08:33,550 --> 00:08:36,500
-Sun Microsystems j√° ganha dinheiro
+Sun Microsystems j· ganha dinheiro
 
 211
 00:08:36,550 --> 00:08:39,500
-com a venda de servi√ßos em vez de software.
+com a venda de serviÁos em vez de software.
 
 212
 00:08:39,900 --> 00:08:43,100
-O que estamos fazendo √©
+O que estamos fazendo È
 vender nossa habilidade
 
 213
 00:08:43,150 --> 00:08:46,500
-na produ√ß√£o de programas
+na produÁ„o de programas
 que as pessoas instalam.
 
 214
 00:08:46,550 --> 00:08:47,900
-Ent√£o, n√≥s estamos vendendo
+Ent„o, nÛs estamos vendendo
 
 215
 00:08:47,950 --> 00:08:50,100
-exatamente o mesmo que costum√°vamos vender
+exatamente o mesmo que costum·vamos vender
 
 216
 00:08:50,150 --> 00:08:51,800
-quando n√≥s vend√≠amos caixas bonitas
+quando nÛs vendÌamos caixas bonitas
 
 217
 00:08:51,850 --> 00:08:53,900
@@ -922,7 +922,7 @@ pagavam quando escolhiam.
 
 218
 00:08:54,000 --> 00:08:56,100
-Mas as empresas de software propriet√°rio
+Mas as empresas de software propriet·rio
 
 219
 00:08:56,150 --> 00:08:57,100
@@ -930,7 +930,7 @@ argumentam que os clientes querem
 
 220
 00:08:57,150 --> 00:08:59,500
-solu√ß√µes prontas que sejam mais simples.
+soluÁıes prontas que sejam mais simples.
 
 221
 00:08:59,900 --> 00:09:02,500
@@ -942,7 +942,7 @@ quer reduzir a quantidade
 
 223
 00:09:04,550 --> 00:09:06,500
-de dinheiro que gastam em servi√ßos.
+de dinheiro que gastam em serviÁos.
 Eles querem que o software
 
 224
@@ -955,7 +955,7 @@ menos complexo de ser usado.
 
 226
 00:09:12,000 --> 00:09:14,100
-Ent√£o, isso quer dizer que software livre
+Ent„o, isso quer dizer que software livre
 
 227
 00:09:14,150 --> 00:09:16,600
@@ -963,11 +963,11 @@ tem propaganda sem justificativas?
 
 228
 00:09:16,900 --> 00:09:17,900
-N√£o necessariamente,
+N„o necessariamente,
 
 229
 00:09:17,950 --> 00:09:19,600
-porque, se voc√™ vive em um pa√≠s
+porque, se vocÍ vive em um paÌs
 
 230
 00:09:19,650 --> 00:09:22,300
@@ -976,35 +976,35 @@ potenciais engenheiros de software
 
 231
 00:09:22,350 --> 00:09:23,500
-com sal√°rios modestos
+com sal·rios modestos
 
 232
 00:09:23,700 --> 00:09:26,600
-a atra√ß√£o de software que n√£o envolve
+a atraÁ„o de software que n„o envolve
 
 233
 00:09:26,600 --> 00:09:28,500
-o custo de servi√ßos √© menos √≥bvia.
+o custo de serviÁos È menos Ûbvia.
 
 234
 00:09:28,700 --> 00:09:31,200
-N√£o √© 100% certo que
+N„o È 100% certo que
 
 235
 00:09:31,250 --> 00:09:32,900
-software Open Source √© totalmente menos caro
+software Open Source È totalmente menos caro
 
 236
 00:09:32,950 --> 00:09:34,300
-do que software propriet√°rio,
+do que software propriet·rio,
 
 237
 00:09:34,400 --> 00:09:36,300
-mas certamente ele √© inicialmente.
+mas certamente ele È inicialmente.
 
 238
 00:09:36,350 --> 00:09:39,600
-E uma r√°pida olhada nos pre√ßos de,
+E uma r·pida olhada nos preÁos de,
 
 239
 00:09:39,650 --> 00:09:42,900
@@ -1013,11 +1013,11 @@ Microsoft versus os do Linux,
 
 240
 00:09:42,950 --> 00:09:44,200
-√© simples, n√£o h√° o que discutir.
+È simples, n„o h· o que discutir.
 
 241
 00:09:44,250 --> 00:09:45,800
-Open Source √© muito menos caro.
+Open Source È muito menos caro.
 
 242
 00:09:45,850 --> 00:09:47,600
@@ -1029,27 +1029,27 @@ trazer o mundo on-line,
 
 244
 00:09:48,950 --> 00:09:51,000
-o pr√≥ximo bilh√£o de pessoas,
+o prÛximo bilh„o de pessoas,
 
 245
 00:09:51,050 --> 00:09:54,600
-√© claro que vai usar software Open Source
+È claro que vai usar software Open Source
 
 246
 00:09:54,650 --> 00:09:56,600
-ou certamente uma estrat√©gia diferente de pre√ßos,
+ou certamente uma estratÈgia diferente de preÁos,
 
 247
 00:09:56,650 --> 00:09:58,800
-dos fornecedores de software propriet√°rio.
+dos fornecedores de software propriet·rio.
 
 248
 00:10:00,950 --> 00:10:04,500
-Cap√≠tulo 2: A Rede se espalha um pouco
+CapÌtulo 2: A Rede se espalha um pouco
 
 249
 00:10:04,800 --> 00:10:06,900
-Existem 500 milh√µes de pessoas
+Existem 500 milhıes de pessoas
 
 250
 00:10:06,950 --> 00:10:09,500
@@ -1057,11 +1057,11 @@ com menos de 25 anos no continente africano.
 
 251
 00:10:09,550 --> 00:10:11,500
-Na √Åfrica sub-saariana,
+Na ¡frica sub-saariana,
 
 252
 00:10:11,550 --> 00:10:13,500
-excluindo a √Åfrica do Sul,
+excluindo a ¡frica do Sul,
 
 253
 00:10:13,550 --> 00:10:16,500
@@ -1069,7 +1069,7 @@ excluindo a √Åfrica do Sul,
 
 254
 00:10:16,550 --> 00:10:19,500
-toda a educa√ß√£o escolar sem nunca ver
+toda a educaÁ„o escolar sem nunca ver
 
 255
 00:10:19,550 --> 00:10:21,900
@@ -1077,41 +1077,41 @@ ou tocar em um computador na sala de aula.
 
 256
 00:10:23,500 --> 00:10:27,100
-SchoolNet Nam√≠bia, criado em 1999,
+SchoolNet NamÌbia, criado em 1999,
 
 257
 00:10:27,150 --> 00:10:30,100
 por uma parceria de ONGs
-e do Minist√©rio da Educa√ß√£o
+e do MinistÈrio da EducaÁ„o
 
 258
 00:10:30,150 --> 00:10:32,500
-√© um provedor de Internet
+È um provedor de Internet
 sem fins lucrativos,
 
 259
 00:10:32,550 --> 00:10:36,200
-hardware e software para as escolas da na√ß√£o.
+hardware e software para as escolas da naÁ„o.
 
 260
 00:10:36,900 --> 00:10:39,000
-Sua miss√£o √© assegurar que os namibianos
+Sua miss„o È assegurar que os namibianos
 
 261
 00:10:39,050 --> 00:10:41,800
-n√£o sofram desvantagem de estar
+n„o sofram desvantagem de estar
 
 262
 00:10:41,850 --> 00:10:43,900
-do lado errado da divis√£o digital.
+do lado errado da divis„o digital.
 
 263
 00:10:45,950 --> 00:10:47,900
-SchoolNet fornece √†s escolas
+SchoolNet fornece ‡s escolas
 
 264
 00:10:47,950 --> 00:10:49,900
-laborat√≥rios especialmente concebidos
+laboratÛrios especialmente concebidos
 
 265
 00:10:49,950 --> 00:10:52,100
@@ -1119,8 +1119,8 @@ e equipados com computadores doados.
 
 266
 00:10:54,100 --> 00:10:56,900
-Muitas vezes, os "tent√°culos"
-das empresas propriet√°rias
+Muitas vezes, os "tent·culos"
+das empresas propriet·rias
 
 267
 00:10:56,950 --> 00:10:57,900
@@ -1128,7 +1128,7 @@ tentam proporcionar seus programas
 
 268
 00:10:57,950 --> 00:10:59,500
-sem licen√ßa ou a custo reduzido
+sem licenÁa ou a custo reduzido
 
 269
 00:10:59,550 --> 00:11:02,900
@@ -1145,19 +1145,19 @@ em mais de 400 escolas.
 
 272
 00:11:08,500 --> 00:11:09,900
-Por qu√™?
+Por quÍ?
 
 273
 00:11:10,100 --> 00:11:13,300
-Ao ter uma solu√ß√£o Open Source,
+Ao ter uma soluÁ„o Open Source,
 
 274
 00:11:13,350 --> 00:11:15,500
-da forma como n√≥s a colocamos em jogo,
+da forma como nÛs a colocamos em jogo,
 
 275
 00:11:15,550 --> 00:11:17,100
-nas escolas da Nam√≠bia,
+nas escolas da NamÌbia,
 
 276
 00:11:17,150 --> 00:11:19,100
@@ -1165,15 +1165,15 @@ como parte de um sistema bem padronizado,
 
 277
 00:11:19,150 --> 00:11:21,500
-distribu√≠das uniformemente por todo o pa√≠s.
+distribuÌdas uniformemente por todo o paÌs.
 
 278
 00:11:21,550 --> 00:11:22,900
-N√≥s n√£o temos v√≠rus,
+NÛs n„o temos vÌrus,
 
 279
 00:11:22,950 --> 00:11:26,100
-n√£o temos v√¢ndalos
+n„o temos v‚ndalos
 
 280
 00:11:26,150 --> 00:11:28,000
@@ -1185,7 +1185,7 @@ o que for provavelmente encontrado
 
 282
 00:11:30,550 --> 00:11:34,200
-em v√°rios ambientes do primeiro mundo.
+em v·rios ambientes do primeiro mundo.
 
 283
 00:11:34,300 --> 00:11:35,100
@@ -1197,26 +1197,26 @@ a acessibilidade de Open Source
 
 285
 00:11:36,950 --> 00:11:38,700
-significa tamb√©m que estagi√°rios
+significa tambÈm que estagi·rios
 
 286
 00:11:38,750 --> 00:11:40,700
-s√£o capazes de aprender a
+s„o capazes de aprender a
 recondicionar computadores
 
 287
 00:11:40,750 --> 00:11:43,300
 muitas vezes com pouco ou nenhum
-conhecimento de computa√ß√£o.
+conhecimento de computaÁ„o.
 
 288
 00:11:43,950 --> 00:11:45,900
 A maioria das pessoas aqui
-n√£o s√£o certificadas.
+n„o s„o certificadas.
 
 289
 00:11:45,950 --> 00:11:48,900
-Quando eles chegam, muitos s√£o totalmente
+Quando eles chegam, muitos s„o totalmente
 
 290
 00:11:48,950 --> 00:11:50,500
@@ -1228,7 +1228,7 @@ Open Source nos ajudou,
 
 292
 00:11:52,350 --> 00:11:53,900
-porque n√£o somos certificados,
+porque n„o somos certificados,
 
 293
 00:11:53,950 --> 00:11:56,900
@@ -1240,15 +1240,15 @@ Como "cortesia" das redes sem fio,
 
 295
 00:11:58,950 --> 00:12:01,900
-as escolas est√£o ligadas √† Internet.
+as escolas est„o ligadas ‡ Internet.
 
 296
 00:12:02,200 --> 00:12:04,900
-Em √°reas remotas, o sol fornece a energia.
+Em ·reas remotas, o sol fornece a energia.
 
 297
 00:12:05,100 --> 00:12:07,700
-No centro de computa√ß√£o HQ
+No centro de computaÁ„o HQ
 
 298
 00:12:07,750 --> 00:12:08,900
@@ -1268,11 +1268,11 @@ utilizar o acesso gratuito a computadores
 
 302
 00:12:14,550 --> 00:12:15,900
-e √† Internet.
+e ‡ Internet.
 
 303
 00:12:17,000 --> 00:12:20,900
-Cap√≠tulo 3: Software Livre
+CapÌtulo 3: Software Livre
 
 304
 00:12:22,500 --> 00:12:23,500
@@ -1280,7 +1280,7 @@ No Brasil
 
 305
 00:12:23,550 --> 00:12:24,500
-o padr√£o de uso
+o padr„o de uso
 
 306
 00:12:24,550 --> 00:12:26,500
@@ -1288,7 +1288,7 @@ nas casas e no setor privado
 
 307
 00:12:26,550 --> 00:12:27,900
-√© pouco diferente
+È pouco diferente
 
 308
 00:12:27,950 --> 00:12:29,900
@@ -1296,11 +1296,11 @@ de qualquer outra parte do globo,
 
 309
 00:12:29,950 --> 00:12:31,900
-mas a mudan√ßa no setor governamental
+mas a mudanÁa no setor governamental
 
 310
 00:12:31,950 --> 00:12:33,700
-√© em grande escala.
+È em grande escala.
 
 311
 00:12:33,950 --> 00:12:36,900
@@ -1308,7 +1308,7 @@ Grande empresas como a Intel
 
 312
 00:12:36,950 --> 00:12:38,900
-j√° come√ßaram a ajustar suas estrat√©gias.
+j· comeÁaram a ajustar suas estratÈgias.
 
 313
 00:12:39,300 --> 00:12:40,500
@@ -1329,23 +1329,23 @@ Vemos isto principalmente
 
 317
 00:12:46,950 --> 00:12:49,100
-nos pa√≠ses emergentes,
+nos paÌses emergentes,
 
 318
 00:12:49,150 --> 00:12:52,500
-em √°reas como √çndia, China, Brasil...
+em ·reas como Õndia, China, Brasil...
 
 319
 00:12:52,550 --> 00:12:55,300
-Cada um deles optou por solu√ß√µes
+Cada um deles optou por soluÁıes
 
 320
 00:12:55,350 --> 00:12:56,500
-Open Source na educa√ß√£o,
+Open Source na educaÁ„o,
 
 321
 00:12:56,550 --> 00:12:57,900
-e n√≥s estamos trabalhando bastante
+e nÛs estamos trabalhando bastante
 
 322
 00:12:57,950 --> 00:13:00,100
@@ -1353,16 +1353,16 @@ para otimizar nossos plataformas
 
 323
 00:13:00,150 --> 00:13:03,500
-para solu√ß√µes espec√≠ficas
+para soluÁıes especÌficas
 baseadas em Open Source.
 
 324
 00:13:03,550 --> 00:13:05,300
-A posi√ß√£o brasileira sobre
+A posiÁ„o brasileira sobre
 
 325
 00:13:05,350 --> 00:13:07,500
-Software Livre √© muito positiva.
+Software Livre È muito positiva.
 
 326
 00:13:07,550 --> 00:13:09,500
@@ -1375,7 +1375,7 @@ um programa para apoiar o software livre
 328
 00:13:12,550 --> 00:13:17,500
 tanto dentro do governo
-quanto como uma aplica√ß√£o
+quanto como uma aplicaÁ„o
 
 329
 00:13:17,550 --> 00:13:20,600
@@ -1383,7 +1383,7 @@ de procedimentos governamentais
 
 330
 00:13:20,650 --> 00:13:22,500
-e tamb√©m de apoiar
+e tambÈm de apoiar
 
 331
 00:13:22,550 --> 00:13:24,500
@@ -1399,7 +1399,7 @@ Adotando Open Source ou Software Livre
 
 334
 00:13:31,550 --> 00:13:32,900
-como √© conhecido no Brasil,
+como È conhecido no Brasil,
 
 335
 00:13:32,950 --> 00:13:34,500
@@ -1407,16 +1407,16 @@ o Instituto Nacional
 
 336
 00:13:34,550 --> 00:13:35,900
-de Tecnologia da Informa√ß√£o
+de Tecnologia da InformaÁ„o
 
 337
 00:13:35,950 --> 00:13:37,900
-alega que fez uma poupan√ßa
+alega que fez uma poupanÁa
 
 338
 00:13:37,950 --> 00:13:41,900
-de cerca de US$ 150 milh√µes
-por ano em licen√ßas
+de cerca de US$ 150 milhıes
+por ano em licenÁas
 
 339
 00:13:41,950 --> 00:13:44,100
@@ -1428,7 +1428,7 @@ esta economia foi traduzida em
 
 341
 00:13:46,150 --> 00:13:47,900
-mais hardware para muitas √°reas
+mais hardware para muitas ·reas
 
 342
 00:13:47,950 --> 00:13:50,500
@@ -1449,15 +1449,15 @@ Software Livre deve ser
 
 346
 00:13:57,050 --> 00:13:58,900
-o software de prefer√™ncia
+o software de preferÍncia
 
 347
 00:13:58,950 --> 00:14:00,200
-em todos os √≥rg√£os administrativos.
+em todos os Ûrg„os administrativos.
 
 348
 00:14:01,900 --> 00:14:03,500
-A Microsoft anunciou o lan√ßamento
+A Microsoft anunciou o lanÁamento
 
 349
 00:14:03,550 --> 00:14:04,500
@@ -1465,7 +1465,7 @@ recentemente no Brasil
 
 350
 00:14:04,550 --> 00:14:06,500
-de uma vers√£o do Windows XP,
+de uma vers„o do Windows XP,
 
 351
 00:14:06,550 --> 00:14:08,500
@@ -1473,19 +1473,19 @@ mais simples de operar e mais barata.
 
 352
 00:14:08,550 --> 00:14:09,900
-Ser√° que isso √© porque ela est√° com medo de
+Ser· que isso È porque ela est· com medo de
 
 353
 00:14:09,950 --> 00:14:12,000
-que o Brasil definir√° uma
+que o Brasil definir· uma
 
 354
 00:14:12,050 --> 00:14:14,100
-tend√™ncia custosa para a Microsoft?
+tendÍncia custosa para a Microsoft?
 
 355
 00:14:14,150 --> 00:14:15,500
-O Brasil √© um pa√≠s
+O Brasil È um paÌs
 
 356
 00:14:15,550 --> 00:14:17,500
@@ -1493,11 +1493,11 @@ muito importante no mundo.
 
 357
 00:14:17,550 --> 00:14:18,500
-N√≥s temos, realmente,
+NÛs temos, realmente,
 
 358
 00:14:18,550 --> 00:14:19,500
-uma estrat√©gia bem focada
+uma estratÈgia bem focada
 
 359
 00:14:19,550 --> 00:14:21,900
@@ -1505,23 +1505,23 @@ dentro de nossa empresa,
 
 360
 00:14:21,950 --> 00:14:24,000
-em torno dos pa√≠ses que chamamos de BRIC,
+em torno dos paÌses que chamamos de BRIC,
 
 361
 00:14:24,150 --> 00:14:25,500
-Brasil, R√∫ssia, √çndia e China,
+Brasil, R˙ssia, Õndia e China,
 
 362
 00:14:25,550 --> 00:14:28,900
-e todos esses pa√≠ses
+e todos esses paÌses
 
 363
 00:14:28,950 --> 00:14:31,500
-t√™m uma ampla gama de necessidades.
+tÍm uma ampla gama de necessidades.
 
 364
 00:14:31,550 --> 00:14:33,500
-H√° uma grande popula√ß√£o pobre
+H· uma grande populaÁ„o pobre
 
 365
 00:14:33,550 --> 00:14:36,200
@@ -1548,7 +1548,7 @@ E estamos muito ativos no Brasil
 
 370
 00:14:44,950 --> 00:14:46,900
-trabalhando no setor da educa√ß√£o
+trabalhando no setor da educaÁ„o
 
 371
 00:14:46,950 --> 00:14:47,900
@@ -1564,27 +1564,27 @@ para ter certeza de que
 
 374
 00:14:50,950 --> 00:14:51,900
-que o acesso esteja dispon√≠vel.
+que o acesso esteja disponÌvel.
 
 375
 00:14:51,950 --> 00:14:53,900
-Temos investido US$13 milh√µes
+Temos investido US$13 milhıes
 
 376
 00:14:53,950 --> 00:14:55,900
-nos √∫ltimos anos
+nos ˙ltimos anos
 
 377
 00:14:55,950 --> 00:14:57,500
-para fornecer o acesso √† tecnologia no Brasil.
+para fornecer o acesso ‡ tecnologia no Brasil.
 
 378
 00:14:57,900 --> 00:14:59,900
-Mas isso n√£o parou o FOSS
+Mas isso n„o parou o FOSS
 
 379
 00:14:59,950 --> 00:15:01,900
-de ganhar uma presen√ßa
+de ganhar uma presenÁa
 significativa no Brasil.
 
 380
@@ -1593,7 +1593,7 @@ Os projetos incluem
 
 381
 00:15:03,850 --> 00:15:05,500
-O projeto do Estado do Paran√° de $200m
+O projeto do Estado do Paran· de $200m
 
 382
 00:15:05,550 --> 00:15:07,100
@@ -1602,12 +1602,12 @@ apoiado pelo Banco Mundial
 383
 00:15:07,150 --> 00:15:09,900
 que visa proporcionar
-infra-estrutura inform√°tica
+infra-estrutura inform·tica
 
 384
 00:15:09,950 --> 00:15:12,000
 bem como a entrega
-de conte√∫do de software
+de conte˙do de software
 
 385
 00:15:12,100 --> 00:15:13,100
@@ -1615,7 +1615,7 @@ e ferramentas de apoio
 
 386
 00:15:13,150 --> 00:15:15,900
-para 2100 escolas p√∫blicas.
+para 2100 escolas p˙blicas.
 
 387
 00:15:16,950 --> 00:15:18,100
@@ -1627,16 +1627,16 @@ recentemente, foram entregues
 
 389
 00:15:19,950 --> 00:15:21,900
-para centros de distribui√ß√£o para
+para centros de distribuiÁ„o para
 
 390
 00:15:21,950 --> 00:15:23,500
-novos laborat√≥rios
+novos laboratÛrios
 de computadores de escolas
 
 391
 00:15:23,550 --> 00:15:24,500
-que ser√£o rodar√£o
+que ser„o rodar„o
 
 392
 00:15:24,550 --> 00:15:26,000
@@ -1645,12 +1645,12 @@ desenvolvido especialmente,
 
 393
 00:15:26,050 --> 00:15:28,000
-que d√° acesso
+que d· acesso
 a ferramentas de aprendizagem,
 
 394
 00:15:28,050 --> 00:15:29,900
-atrav√©s de um gateway bidirecional
+atravÈs de um gateway bidirecional
 
 395
 00:15:29,950 --> 00:15:32,900
@@ -1662,15 +1662,15 @@ para o pool de recursos educativos,
 
 397
 00:15:34,550 --> 00:15:36,500
-assim o software n√£o √© a √∫nica coisa
+assim o software n„o È a ˙nica coisa
 
 398
 00:15:36,550 --> 00:15:37,500
-que est√° sendo compartilhado.
+que est· sendo compartilhado.
 
 399
 00:15:38,900 --> 00:15:40,200
-Penso que a liberdade √©
+Penso que a liberdade È
 
 400
 00:15:40,250 --> 00:15:41,900
@@ -1678,31 +1678,31 @@ a coisa mais importante,
 
 401
 00:15:41,950 --> 00:15:43,500
-porque voc√™ pode usar o [software],
+porque vocÍ pode usar o [software],
 
 402
 00:15:43,550 --> 00:15:47,100
-voc√™ pode fazer algumas modifica√ß√µes
+vocÍ pode fazer algumas modificaÁıes
 
 403
 00:15:47,150 --> 00:15:52,100
-e qualquer pessoa pode usar estas modifica√ß√µes.
+e qualquer pessoa pode usar estas modificaÁıes.
 
 404
 00:15:52,500 --> 00:15:57,900
-Ent√£o, vivemos hoje em um tipo de sociedade
+Ent„o, vivemos hoje em um tipo de sociedade
 
 405
 00:15:57,950 --> 00:16:02,500
-onde o conhecimento √© para todos,
+onde o conhecimento È para todos,
 
 406
 00:16:02,550 --> 00:16:03,900
-e n√£o apenas para pequenos grupos
+e n„o apenas para pequenos grupos
 
 407
 00:16:03,950 --> 00:16:07,900
-quem tem dinheiro para pagar por informa√ß√µes.
+quem tem dinheiro para pagar por informaÁıes.
 
 408
 00:16:08,500 --> 00:16:09,900
@@ -1714,27 +1714,27 @@ as portas para o mundo
 
 410
 00:16:11,250 --> 00:16:12,500
-da tecnologia da informa√ß√£o
+da tecnologia da informaÁ„o
 
 411
 00:16:12,550 --> 00:16:14,900
-est√£o a ser abertos em uma maneira diferente.
+est„o a ser abertos em uma maneira diferente.
 
 412
 00:16:16,950 --> 00:16:19,900
-Cap√≠tulo 4: Uma porta Digital
+CapÌtulo 4: Uma porta Digital
 
 413
 00:16:21,100 --> 00:16:22,500
-Presidente Mbeki da √Åfrica do Sul
+Presidente Mbeki da ¡frica do Sul
 
 414
 00:16:22,550 --> 00:16:25,500
-√© famosa por sua depend√™ncia   Internet.
+È famosa por sua dependÍncia   Internet.
 
 415
 00:16:25,550 --> 00:16:27,500
-Ele quer o pa√≠s a seguir o exemplo
+Ele quer o paÌs a seguir o exemplo
 
 416
 00:16:27,550 --> 00:16:28,900
@@ -1742,11 +1742,11 @@ com o governo empurrando
 
 417
 00:16:28,950 --> 00:16:30,500
-a ado√ß√£o da revolu√ß√£o digital.
+a adoÁ„o da revoluÁ„o digital.
 
 418
 00:16:30,550 --> 00:16:32,900
-Mesmo toda uma s√©rie televisiva
+Mesmo toda uma sÈrie televisiva
 
 419
 00:16:32,950 --> 00:16:35,500
@@ -1774,23 +1774,23 @@ dizer que os seus defensores
 
 425
 00:16:43,150 --> 00:16:45,900
-√© praticamente um indestrut√≠vel
+È praticamente um indestrutÌvel
 
 426
 00:16:45,950 --> 00:16:47,500
-computa√ß√£o cubo que acompanha o
+computaÁ„o cubo que acompanha o
 
 427
 00:16:47,550 --> 00:16:48,500
-"Se voc√™ constru√≠-lo
+"Se vocÍ construÌ-lo
 
 428
 00:16:48,550 --> 00:16:50,100
-elas vir√£o filosofia".
+elas vir„o filosofia".
 
 429
 00:16:50,950 --> 00:16:53,500
-Na √çndia, havia a id√©ia
+Na Õndia, havia a idÈia
 
 430
 00:16:53,550 --> 00:16:54,500
@@ -1802,27 +1802,27 @@ onde um computador pode
 
 432
 00:16:57,950 --> 00:16:59,500
-onde as pessoas poderiam ser colocadas acess√°-lo,
+onde as pessoas poderiam ser colocadas acess·-lo,
 
 433
 00:16:59,550 --> 00:17:02,900
-ao largo da parede, √© s√≥ ali sentado
+ao largo da parede, È sÛ ali sentado
 
 434
 00:17:02,950 --> 00:17:04,500
-peeps e √© atrav√©s da parede,
+peeps e È atravÈs da parede,
 
 435
 00:17:04,550 --> 00:17:06,900
-e a id√©ia √© promover a
+e a idÈia È promover a
 
 436
 00:17:06,950 --> 00:17:08,900
-o conceito de educa√ß√£o minimamente invasiva,
+o conceito de educaÁ„o minimamente invasiva,
 
 437
 00:17:08,950 --> 00:17:11,000
-que tem inspirado da √Åfrica do Sul
+que tem inspirado da ¡frica do Sul
 
 438
 00:17:11,050 --> 00:17:12,500
@@ -1830,15 +1830,15 @@ Digital Doorway projeto.
 
 439
 00:17:12,550 --> 00:17:18,900
-uma forma de tornar mais f√°cil para as pessoas
+uma forma de tornar mais f·cil para as pessoas
 
 440
 00:17:18,950 --> 00:17:20,900
-para ensinar a eles em seu pr√≥prio ritmo
+para ensinar a eles em seu prÛprio ritmo
 
 441
 00:17:20,950 --> 00:17:22,900
-de acordo com o seu pr√≥prio estilo,
+de acordo com o seu prÛprio estilo,
 
 442
 00:17:22,950 --> 00:17:24,900
@@ -1846,15 +1846,15 @@ como usar e para inovar
 
 443
 00:17:24,950 --> 00:17:26,500
-o papel da informa√ß√£o
+o papel da informaÁ„o
 
 444
 00:17:26,550 --> 00:17:27,900
-e tecnologias de comunica√ß√£o.
+e tecnologias de comunicaÁ„o.
 
 445
 00:17:28,500 --> 00:17:29,400
-O Digital Doorway √© carregado
+O Digital Doorway È carregado
 
 446
 00:17:29,450 --> 00:17:31,900
@@ -1862,11 +1862,11 @@ com software Open Source,
 
 447
 00:17:31,950 --> 00:17:32,900
-recursos pedag√≥gicos,
+recursos pedagÛgicos,
 
 448
 00:17:32,950 --> 00:17:34,500
-uma enciclop√©dia de fonte aberta,
+uma enciclopÈdia de fonte aberta,
 
 449
 00:17:34,550 --> 00:17:35,900
@@ -1874,11 +1874,11 @@ livros digitais,
 
 450
 00:17:35,950 --> 00:17:39,900
-pacotes gr√°ficos e jogos educativos.
+pacotes gr·ficos e jogos educativos.
 
 451
 00:17:39,950 --> 00:17:41,300
-Este quiosque computa√ß√£o
+Este quiosque computaÁ„o
 
 452
 00:17:41,350 --> 00:17:43,100
@@ -1886,11 +1886,11 @@ equipada com quatro protegidas
 
 453
 00:17:43,150 --> 00:17:44,500
-telas e teclados imperme√°veis,
+telas e teclados imperme·veis,
 
 454
 00:17:44,550 --> 00:17:45,900
-n√£o s√≥ permite o acesso,
+n„o sÛ permite o acesso,
 
 455
 00:17:45,950 --> 00:17:48,500
@@ -1902,7 +1902,7 @@ rapidamente demystifies
 
 457
 00:17:49,950 --> 00:17:51,900
-torna acess√≠veis e tecnologia.
+torna acessÌveis e tecnologia.
 
 458
 00:17:52,400 --> 00:17:53,900
@@ -1910,7 +1910,7 @@ Em muitas das comunidades
 
 459
 00:17:53,950 --> 00:17:54,900
-voc√™ ver√° que,
+vocÍ ver· que,
 
 460
 00:17:54,950 --> 00:17:56,900
@@ -1918,7 +1918,7 @@ a maior parte da comunidade
 
 461
 00:17:56,950 --> 00:17:58,900
-n√£o tenha ainda descoberto
+n„o tenha ainda descoberto
 
 462
 00:17:58,950 --> 00:18:00,900
@@ -1926,11 +1926,11 @@ funciona como um computador,
 
 463
 00:18:00,950 --> 00:18:03,900
-muito poucos, na verdade, nas √°reas mais pobres
+muito poucos, na verdade, nas ·reas mais pobres
 
 464
 00:18:03,950 --> 00:18:05,900
-t√™m acesso sequer a um ATM,
+tÍm acesso sequer a um ATM,
 
 465
 00:18:05,950 --> 00:18:07,900
@@ -1942,11 +1942,11 @@ assim para alguns desses lugares,
 
 467
 00:18:10,950 --> 00:18:12,900
-isto √©, na realidade, a primeira experi√™ncia
+isto È, na realidade, a primeira experiÍncia
 
 468
 00:18:12,950 --> 00:18:14,900
-crian√ßas, especialmente efeito,
+crianÁas, especialmente efeito,
 
 469
 00:18:14,950 --> 00:18:16,500
@@ -1954,7 +1954,7 @@ com o computador
 
 470
 00:18:16,550 --> 00:18:19,900
-por isso √© tanto uma oportunidade
+por isso È tanto uma oportunidade
 
 471
 00:18:19,950 --> 00:18:21,900
@@ -1962,7 +1962,7 @@ para se descobrir algo novo
 
 472
 00:18:21,950 --> 00:18:23,900
-e tamb√©m descobrimos que
+e tambÈm descobrimos que
 
 473
 00:18:23,950 --> 00:18:24,900
@@ -1970,11 +1970,11 @@ no longo prazo,
 
 474
 00:18:24,950 --> 00:18:26,900
-eles est√£o aprendendo sobre algo
+eles est„o aprendendo sobre algo
 
 475
 00:18:26,950 --> 00:18:27,900
-que eles v√£o estar usando
+que eles v„o estar usando
 
 476
 00:18:27,950 --> 00:18:29,900
@@ -1986,7 +1986,7 @@ e no futuro,
 
 478
 00:18:30,950 --> 00:18:32,900
-por isso √© de real interesse para eles.
+por isso È de real interesse para eles.
 
 479
 00:18:34,500 --> 00:18:35,900
@@ -2006,11 +2006,11 @@ mas sobre o trabalho especialmente frente
 
 483
 00:18:41,950 --> 00:18:43,900
-nos pa√≠ses desenvolvidos software comercial
+nos paÌses desenvolvidos software comercial
 
 484
 00:18:43,950 --> 00:18:45,900
-ainda √© muito mais prevalente
+ainda È muito mais prevalente
 
 485
 00:18:45,950 --> 00:18:46,900
@@ -2042,7 +2042,7 @@ Eu uso o Microsoft Word para qualquer outra coisa.
 
 492
 00:18:58,550 --> 00:18:59,900
-Definitivamente √∫til ter conhecimento
+Definitivamente ˙til ter conhecimento
 
 493
 00:18:59,950 --> 00:19:00,900
@@ -2058,7 +2058,7 @@ um entendimento de que o software
 
 496
 00:19:03,550 --> 00:19:05,500
-porque ele √© como o de fato software
+porque ele È como o de fato software
 
 497
 00:19:05,550 --> 00:19:06,900
@@ -2066,11 +2066,11 @@ no local de trabalho.
 
 498
 00:19:06,950 --> 00:19:08,900
-Francamente, esse √© o √∫nico que eu conhe√ßo.
+Francamente, esse È o ˙nico que eu conheÁo.
 
 499
 00:19:10,100 --> 00:19:11,500
-Mas isso n√£o significa que
+Mas isso n„o significa que
 
 500
 00:19:11,550 --> 00:19:13,500
@@ -2082,7 +2082,7 @@ um software para os geeks.
 
 502
 00:19:15,000 --> 00:19:17,500
-A posi√ß√£o do PS √© muito simples
+A posiÁ„o do PS È muito simples
 
 503
 00:19:17,550 --> 00:19:19,900
@@ -2090,7 +2090,7 @@ que damos ao cliente uma escolha,
 
 504
 00:19:19,950 --> 00:19:23,100
-se o cliente quiser usar o software propriet√°rio
+se o cliente quiser usar o software propriet·rio
 
 505
 00:19:23,150 --> 00:19:24,900
@@ -2102,7 +2102,7 @@ e se o cliente quiser usar software aberto
 
 507
 00:19:28,150 --> 00:19:30,500
-temos que dar a ele, e n√≥s trabalhamos com
+temos que dar a ele, e nÛs trabalhamos com
 
 508
 00:19:30,550 --> 00:19:32,500
@@ -2114,7 +2114,7 @@ Em Fevereiro de 2005 Computer gigante IBM
 
 510
 00:19:36,550 --> 00:19:39,500
-anunciou planos para investir 100 milh√µes de d√≥lares E.U.
+anunciou planos para investir 100 milhıes de dÛlares E.U.
 
 511
 00:19:39,550 --> 00:19:41,800
@@ -2130,11 +2130,11 @@ para Open Source Software,
 
 514
 00:19:44,550 --> 00:19:47,900
-n√≥s estamos envolvidos em mais de 150 projetos Open Source.
+nÛs estamos envolvidos em mais de 150 projetos Open Source.
 
 515
 00:19:47,950 --> 00:19:49,900
-Em nosso centro tecnol√≥gico Linux
+Em nosso centro tecnolÛgico Linux
 
 516
 00:19:49,950 --> 00:19:52,000
@@ -2150,7 +2150,7 @@ como parte da comunidade de fonte aberta,
 
 519
 00:19:56,450 --> 00:19:57,900
-mas acho que a principal raz√£o
+mas acho que a principal raz„o
 
 520
 00:19:57,950 --> 00:19:59,500
@@ -2158,7 +2158,7 @@ que o nosso empenho em Open Source
 
 521
 00:19:59,550 --> 00:20:01,500
-aumentou √© que os nossos clientes
+aumentou È que os nossos clientes
 
 522
 00:20:01,550 --> 00:20:02,700
@@ -2166,7 +2166,7 @@ foram perguntar para ele
 
 523
 00:20:02,750 --> 00:20:04,200
-porque eles v√™em o valor no mesmo.
+porque eles vÍem o valor no mesmo.
 
 524
 00:20:04,500 --> 00:20:06,500
@@ -2174,43 +2174,43 @@ E apesar de a maioria dos computadores
 
 525
 00:20:06,550 --> 00:20:08,900
-nas Na√ß√µes Unidas n√£o est√£o sendo veiculados FOSS,
+nas NaÁıes Unidas n„o est„o sendo veiculados FOSS,
 
 526
 00:20:08,950 --> 00:20:10,900
-Conjunto das Na√ß√µes Unidas Inspection Unit,
+Conjunto das NaÁıes Unidas Inspection Unit,
 
 527
 00:20:10,950 --> 00:20:12,500
-recomenda vivamente a sua utiliza√ß√£o:
+recomenda vivamente a sua utilizaÁ„o:
 
 528
 00:20:13,500 --> 00:20:14,800
-Uma das recomenda√ß√µes que estamos a fazer
+Uma das recomendaÁıes que estamos a fazer
 
 529
 00:20:14,850 --> 00:20:18,900
-precisamente para garantir que todas as organiza√ß√µes
+precisamente para garantir que todas as organizaÁıes
 
 530
 00:20:18,950 --> 00:20:20,900
-no sistema das Na√ß√µes Unidas ir√° subir
+no sistema das NaÁıes Unidas ir· subir
 
 531
 00:20:20,950 --> 00:20:25,900
-com uma organiza√ß√£o de dimens√£o pol√≠tica
+com uma organizaÁ„o de dimens„o polÌtica
 
 532
 00:20:25,950 --> 00:20:28,000
-sobre a utiliza√ß√£o do Open Source Software
+sobre a utilizaÁ„o do Open Source Software
 
 533
 00:20:28,950 --> 00:20:30,900
-CAP√çTULO 5: NIBUS COMPUTADOR
+CAPÕTULO 5: NIBUS COMPUTADOR
 
 534
 00:20:31,950 --> 00:20:34,500
-Isto n√£o √© normal autocarro escolar, na √çndia.
+Isto n„o È normal autocarro escolar, na Õndia.
 
 535
 00:20:34,550 --> 00:20:35,500
@@ -2218,11 +2218,11 @@ Este autocarro lugares
 
 536
 00:20:35,550 --> 00:20:37,100
-est√£o equipados com um terminal
+est„o equipados com um terminal
 
 537
 00:20:37,150 --> 00:20:39,100
-e o bilhete coletor foi substitu√≠do por
+e o bilhete coletor foi substituÌdo por
 
 538
 00:20:39,150 --> 00:20:41,300
@@ -2230,15 +2230,15 @@ tecnologicamente alfabetizados um professor.
 
 539
 00:20:41,300 --> 00:20:42,900
-Este √© o projeto √înibus M√≥vel
+Este È o projeto ‘nibus MÛvel
 
 540
 00:20:42,950 --> 00:20:45,500
-Baramati no distrito central da √çndia,
+Baramati no distrito central da Õndia,
 
 541
 00:20:45,550 --> 00:20:46,900
-recursos escassos, onde est√£o sendo feitas
+recursos escassos, onde est„o sendo feitas
 
 542
 00:20:46,950 --> 00:20:48,800
@@ -2246,7 +2246,7 @@ para ir mais longe do que nunca.
 
 543
 00:20:49,500 --> 00:20:51,500
-O regime √© financiado pelo Banco Mundial
+O regime È financiado pelo Banco Mundial
 
 544
 00:20:51,550 --> 00:20:52,900
@@ -2254,7 +2254,7 @@ e do Vidya Pratishtan's
 
 545
 00:20:52,950 --> 00:20:54,900
-Instituto de Tecnologia da Informa√ß√£o
+Instituto de Tecnologia da InformaÁ„o
 
 546
 00:20:54,950 --> 00:20:56,500
@@ -2266,11 +2266,11 @@ Os alunos esperam ansiosamente
 
 548
 00:20:58,550 --> 00:20:59,550
-para os √¥nibus chegada.
+para os Ùnibus chegada.
 
 549
 00:20:59,900 --> 00:21:01,500
-A frota de 5 √¥nibus
+A frota de 5 Ùnibus
 
 550
 00:21:01,550 --> 00:21:04,000
@@ -2278,7 +2278,7 @@ viagem de cerca de 35 aldeias cada semana,
 
 551
 00:21:04,050 --> 00:21:06,900
-est√£o completamente equipados com 24 computadores terminais
+est„o completamente equipados com 24 computadores terminais
 
 552
 00:21:06,950 --> 00:21:09,050
@@ -2290,19 +2290,19 @@ diz que o Instituto foi escolhido
 
 554
 00:21:10,950 --> 00:21:13,200
-devido ao custo inicial de poupan√ßa:
+devido ao custo inicial de poupanÁa:
 
 555
 00:21:13,250 --> 00:21:14,900
-Na √çndia, basicamente, quando queremos
+Na Õndia, basicamente, quando queremos
 
 556
 00:21:14,950 --> 00:21:16,900
-para executar projetos como o computador m√≥vel laborat√≥rio
+para executar projetos como o computador mÛvel laboratÛrio
 
 557
 00:21:16,950 --> 00:21:18,900
-computador ou dar educa√ß√£o
+computador ou dar educaÁ„o
 
 558
 00:21:18,950 --> 00:21:20,500
@@ -2310,7 +2310,7 @@ escolares para as zonas rurais,
 
 559
 00:21:20,550 --> 00:21:22,200
-a restri√ß√£o b√°sica √© o financiamento
+a restriÁ„o b·sica È o financiamento
 
 560
 00:21:22,250 --> 00:21:25,200
@@ -2326,7 +2326,7 @@ o custo do projeto
 
 563
 00:21:28,350 --> 00:21:33,500
-e como o Open Source √© a melhor solu√ß√£o
+e como o Open Source È a melhor soluÁ„o
 
 564
 00:21:33,550 --> 00:21:35,500
@@ -2338,11 +2338,11 @@ por isso, decidiu ir para a plataforma Open Source.
 
 566
 00:21:39,900 --> 00:21:40,900
-Os professores m√≥veis
+Os professores mÛveis
 
 567
 00:21:40,950 --> 00:21:42,600
-s√£o capazes de ensinar computa√ß√£o compet√™ncias
+s„o capazes de ensinar computaÁ„o competÍncias
 
 568
 00:21:42,650 --> 00:21:45,600
@@ -2350,27 +2350,27 @@ para 6000 10 a 14 anos de idade dos alunos.
 
 569
 00:21:45,650 --> 00:21:47,900
-O √¥nibus m√≥vel curr√≠culo ensina tudo
+O Ùnibus mÛvel currÌculo ensina tudo
 
 570
 00:21:47,950 --> 00:21:49,600
-desde o b√°sico de computa√ß√£o
+desde o b·sico de computaÁ„o
 
 571
 00:21:49,650 --> 00:21:51,900
-a forma de utilizar v√°rios tipos de software,
+a forma de utilizar v·rios tipos de software,
 
 572
 00:21:51,950 --> 00:21:54,500
-e at√© mesmo habilidades de programa√ß√£o e ele aparece
+e atÈ mesmo habilidades de programaÁ„o e ele aparece
 
 573
 00:21:54,550 --> 00:21:57,800
-que esse acesso √© ainda maior tendo benef√≠cios.
+que esse acesso È ainda maior tendo benefÌcios.
 
 574
 00:21:57,980 --> 00:21:59,900
-Para al√©m deste computador ensino
+Para alÈm deste computador ensino
 
 575
 00:21:59,950 --> 00:22:03,200
@@ -2386,7 +2386,7 @@ recebe juros gerados,
 
 578
 00:22:07,950 --> 00:22:10,200
-para que eles tenham come√ßado pr√≥ximos √†s escolas.
+para que eles tenham comeÁado prÛximos ‡s escolas.
 
 579
 00:22:10,800 --> 00:22:12,900
@@ -2398,7 +2398,7 @@ proponentes de FOSS
 
 581
 00:22:14,150 --> 00:22:16,800
-dizer que esta √© a forma como ele ir√° ajudar a colmatar o fosso digital.
+dizer que esta È a forma como ele ir· ajudar a colmatar o fosso digital.
 
 582
 00:22:17,950 --> 00:22:19,900
@@ -2406,31 +2406,31 @@ Advogados de software de fonte aberta,
 
 583
 00:22:19,950 --> 00:22:21,200
-como um trunfo para os pa√≠ses em desenvolvimento,
+como um trunfo para os paÌses em desenvolvimento,
 
 584
 00:22:21,250 --> 00:22:23,500
-tamb√©m sustenta que √© altamente flex√≠vel
+tambÈm sustenta que È altamente flexÌvel
 
 585
 00:22:23,550 --> 00:22:25,500
-e, por vezes, melhor se ad√©quam   ajuda
+e, por vezes, melhor se adÈquam   ajuda
 
 586
 00:22:25,550 --> 00:22:28,100
-com grandes quest√µes como cat√°strofes.
+com grandes questıes como cat·strofes.
 
 587
 00:22:29,000 --> 00:22:33,000
-CAP√çTULO 6: Gest√£o de Cat√°strofes
+CAPÕTULO 6: Gest„o de Cat·strofes
 
 588
 00:22:33,000 --> 00:22:34,900
-As cat√°strofes naturais como o tsunami
+As cat·strofes naturais como o tsunami
 
 589
 00:22:34,950 --> 00:22:36,900
-deixam uma grande devasta√ß√£o
+deixam uma grande devastaÁ„o
 
 590
 00:22:36,950 --> 00:22:38,400
@@ -2438,19 +2438,19 @@ em pouco tempo,
 
 591
 00:22:38,500 --> 00:22:41,200
-rapidamente eliminando transportes, comunica√ß√µes,
+rapidamente eliminando transportes, comunicaÁıes,
 
 592
 00:22:41,250 --> 00:22:43,900
-infra-estruturas e servi√ßos de emerg√™ncia
+infra-estruturas e serviÁos de emergÍncia
 
 593
 00:22:43,950 --> 00:22:45,200
-e at√© mesmo as mais ricas na√ß√µes
+e atÈ mesmo as mais ricas naÁıes
 
 594
 00:22:45,250 --> 00:22:47,900
-s√£o surpreendentemente deixado em um estado de caos.
+s„o surpreendentemente deixado em um estado de caos.
 
 595
 00:22:47,900 --> 00:22:50,000
@@ -2458,7 +2458,7 @@ Mais de 30.000 pessoas morreram
 
 596
 00:22:50,000 --> 00:22:51,000
-e quase um milh√£o de pessoas
+e quase um milh„o de pessoas
 
 597
 00:22:51,050 --> 00:22:54,000
@@ -2466,7 +2466,7 @@ foram afetadas pelo tsunami no Sri Lanka;
 
 598
 00:22:54,050 --> 00:22:57,000
-e de ajuda e aux√≠lio derramou nos de todo o mundo
+e de ajuda e auxÌlio derramou nos de todo o mundo
 
 599
 00:22:57,050 --> 00:22:58,800
@@ -2502,7 +2502,7 @@ em termos de investimento antes do desastre.
 
 607
 00:23:13,900 --> 00:23:16,500
-Uma parte vital de gest√£o de desastres √© a informa√ß√£o
+Uma parte vital de gest„o de desastres È a informaÁ„o
 
 608
 00:23:16,550 --> 00:23:18,000
@@ -2510,7 +2510,7 @@ que tenha sido afetado?
 
 609
 00:23:18,050 --> 00:23:19,500
-onde est√£o as pessoas?
+onde est„o as pessoas?
 
 610
 00:23:19,550 --> 00:23:20,500
@@ -2518,23 +2518,23 @@ quem precisa de ajuda?
 
 611
 00:23:20,550 --> 00:23:22,900
-e pelo rigor de gest√£o da informa√ß√£o
+e pelo rigor de gest„o da informaÁ„o
 
 612
 00:23:22,950 --> 00:23:24,900
-utilizando Tecnologia da Informa√ß√£o,
+utilizando Tecnologia da InformaÁ„o,
 
 613
 00:23:24,950 --> 00:23:27,200
-dados podem ser processados, possibilitando fam√≠lias
+dados podem ser processados, possibilitando famÌlias
 
 614
 00:23:27,250 --> 00:23:28,900
-e pr√≥ximas de cada esp√©cie, para encontrar outras
+e prÛximas de cada espÈcie, para encontrar outras
 
 615
 00:23:28,950 --> 00:23:30,900
-e recursos a serem distribu√≠dos
+e recursos a serem distribuÌdos
 
 616
 00:23:30,950 --> 00:23:32,100
@@ -2542,11 +2542,11 @@ para aqueles que mais precisam delas.
 
 617
 00:23:32,150 --> 00:23:35,000
-A manh√£ do dia 26 de dez.
+A manh„ do dia 26 de dez.
 
 618
 00:23:35,050 --> 00:23:37,000
-Foi um dia terr√≠vel para n√≥s,
+Foi um dia terrÌvel para nÛs,
 
 619
 00:23:37,050 --> 00:23:41,000
@@ -2562,7 +2562,7 @@ algo que nunca tinha sido
 
 622
 00:23:44,150 --> 00:23:47,000
-uma situa√ß√£o no Sri Lanka,
+uma situaÁ„o no Sri Lanka,
 
 623
 00:23:47,050 --> 00:23:50,500
@@ -2570,7 +2570,7 @@ tivemos perdas de pessoas,
 
 624
 00:23:50,550 --> 00:23:53,000
-pessoas que n√£o eram detect√°veis,
+pessoas que n„o eram detect·veis,
 
 625
 00:23:53,050 --> 00:23:56,500
@@ -2578,7 +2578,7 @@ pessoas que ficaram feridas e, naturalmente,
 
 626
 00:23:56,900 --> 00:23:59,900
-para cada uma pessoa que havia uma fam√≠lia inteira
+para cada uma pessoa que havia uma famÌlia inteira
 
 627
 00:23:59,950 --> 00:24:01,000
@@ -2586,7 +2586,7 @@ em casa olhando para eles
 
 628
 00:24:01,050 --> 00:24:03,000
-e tentando encontrar a informa√ß√£o.
+e tentando encontrar a informaÁ„o.
 
 629
 00:24:05,000 --> 00:24:06,000
@@ -2594,11 +2594,11 @@ Olhando para as necessidades urgentes
 
 630
 00:24:06,050 --> 00:24:08,000
-que havia sido criada na seq√º√™ncia do tsunami,
+que havia sido criada na seq¸Íncia do tsunami,
 
 631
 00:24:08,050 --> 00:24:10,200
-Sahana o sistema de gest√£o de desastres
+Sahana o sistema de gest„o de desastres
 
 632
 00:24:10,250 --> 00:24:11,500
@@ -2614,11 +2614,11 @@ utilizando Software Livre.
 
 635
 00:24:17,000 --> 00:24:19,400
-Ap√≥s o tsunami de um grupo de volunt√°rios
+ApÛs o tsunami de um grupo de volunt·rios
 
 636
 00:24:19,450 --> 00:24:20,900
-de ind√∫stria de IT,
+de ind˙stria de IT,
 
 637
 00:24:20,950 --> 00:24:23,200
@@ -2626,7 +2626,7 @@ realmente a comunidade de software livre
 
 638
 00:24:23,250 --> 00:24:25,900
-se uniu e construiu uma solu√ß√£o,
+se uniu e construiu uma soluÁ„o,
 
 639
 00:24:25,950 --> 00:24:27,200
@@ -2634,7 +2634,7 @@ uma suite de web-based
 
 640
 00:24:27,250 --> 00:24:29,100
-cat√°strofe aplica√ß√µes de gest√£o,
+cat·strofe aplicaÁıes de gest„o,
 
 641
 00:24:29,150 --> 00:24:31,500
@@ -2642,7 +2642,7 @@ eles olharam para os problemas que afetam
 
 642
 00:24:31,550 --> 00:24:33,700
-seus colegas e todos os conterr√¢neos do caos
+seus colegas e todos os conterr‚neos do caos
 
 643
 00:24:33,750 --> 00:24:35,500
@@ -2650,7 +2650,7 @@ e, em seguida, identificar os problemas
 
 644
 00:24:35,550 --> 00:24:36,700
-solu√ß√£o e constru√≠do em torno deles.
+soluÁ„o e construÌdo em torno deles.
 
 645
 00:24:37,050 --> 00:24:39,500
@@ -2658,11 +2658,11 @@ FOSS trabalhados para o improvisado Sahana
 
 646
 00:24:39,550 --> 00:24:41,900
-porque os programadores volunt√°rios computador
+porque os programadores volunt·rios computador
 
 647
 00:24:41,950 --> 00:24:44,100
-o software necess√°rios urgentemente.
+o software necess·rios urgentemente.
 
 648
 00:24:44,150 --> 00:24:47,100
@@ -2674,15 +2674,15 @@ instantaneamente a partir da Internet sem pagar por nada.
 
 650
 00:24:50,050 --> 00:24:53,900
-Ent√£o Sahana FOSS alega que aumenta a agilidade
+Ent„o Sahana FOSS alega que aumenta a agilidade
 
 651
 00:24:53,950 --> 00:24:56,400
-de institui√ß√µes que trabalham na gest√£o de desastres.
+de instituiÁıes que trabalham na gest„o de desastres.
 
 652
 00:24:57,900 --> 00:25:01,000
-Quando come√ßamos em Sahana n√£o t√≠nhamos dinheiro
+Quando comeÁamos em Sahana n„o tÌnhamos dinheiro
 
 653
 00:25:01,050 --> 00:25:04,100
@@ -2690,35 +2690,35 @@ como tal, para ir e comprar off-the-shelf software,
 
 654
 00:25:04,150 --> 00:25:06,500
-tamb√©m tivemos um problema
+tambÈm tivemos um problema
 
 655
 00:25:06,550 --> 00:25:09,000
-que precis√°vamos de alfaiate tornar
+que precis·vamos de alfaiate tornar
 
 656
 00:25:09,050 --> 00:25:13,000
-e tivemos que come√ßar com algo mais
+e tivemos que comeÁar com algo mais
 
 657
 00:25:13,050 --> 00:25:15,500
-do que um produto comercial, precis√°vamos de ir l√° para dentro,
+do que um produto comercial, precis·vamos de ir l· para dentro,
 
 658
 00:25:15,550 --> 00:25:18,500
-com a fonte aberta, todos os problemas n√£o estavam l√°.
+com a fonte aberta, todos os problemas n„o estavam l·.
 
 659
 00:25:19,000 --> 00:25:21,200
-Ent√£o um localmente adaptadas, sistema de gest√£o de desastres
+Ent„o um localmente adaptadas, sistema de gest„o de desastres
 
 660
 00:25:21,250 --> 00:25:24,500
-utilizando Software Livre e Open Source foi constru√≠do
+utilizando Software Livre e Open Source foi construÌdo
 
 661
 00:25:24,550 --> 00:25:26,200
-sem necessidade de pagar licen√ßas.
+sem necessidade de pagar licenÁas.
 
 662
 00:25:26,250 --> 00:25:28,500
@@ -2726,7 +2726,7 @@ A principal vantagem foi ter
 
 663
 00:25:28,550 --> 00:25:31,500
-o acesso imediato ao c√≥digo-fonte.
+o acesso imediato ao cÛdigo-fonte.
 
 664
 00:25:32,000 --> 00:25:34,000
@@ -2742,7 +2742,7 @@ com os compradores e produtores de alimentos
 
 667
 00:25:36,250 --> 00:25:37,900
-atrav√©s da world wide web,
+atravÈs da world wide web,
 
 668
 00:25:37,950 --> 00:25:41,000
@@ -2750,7 +2750,7 @@ ser um outro passo no sentido de colmatar o fosso digital?
 
 669
 00:25:40,500 --> 00:25:43,500
-Cap√≠tulo 7: Web d√° Frutos
+CapÌtulo 7: Web d· Frutos
 
 670
 00:25:45,000 --> 00:25:46,500
@@ -2758,23 +2758,23 @@ Em todo o mundo
 
 671
 00:25:46,550 --> 00:25:48,500
-pequenas e m√©dias agricultores
+pequenas e mÈdias agricultores
 
 672
 00:25:48,550 --> 00:25:49,500
-t√™m de obter os seus bens
+tÍm de obter os seus bens
 
 673
 00:25:49,550 --> 00:25:51,000
-ao mercado atrav√©s de intermedi√°rios.
+ao mercado atravÈs de intermedi·rios.
 
 674
 00:25:51,500 --> 00:25:54,000
-Na Mal√°sia, Livre e Open Source Software
+Na Mal·sia, Livre e Open Source Software
 
 675
 00:25:54,050 --> 00:25:57,155
-est√° a ajud√°-los a evitar os intermedi√°rios.
+est· a ajud·-los a evitar os intermedi·rios.
 
 676
 00:25:58,000 --> 00:26:00,700
@@ -2782,7 +2782,7 @@ Agribazaar - uma ferramenta de marketing on-line
 
 677
 00:26:00,750 --> 00:26:02,500
-para as pequenas e m√©dias empresas
+para as pequenas e mÈdias empresas
 
 678
 00:26:02,500 --> 00:26:03,900
@@ -2790,7 +2790,7 @@ de comercializar os seus produtos localmente
 
 679
 00:26:03,950 --> 00:26:05,000
-bem como a n√≠vel mundial -
+bem como a nÌvel mundial -
 
 680
 00:26:05,050 --> 00:26:07,500
@@ -2802,19 +2802,19 @@ feito por um governo
 
 682
 00:26:09,500 --> 00:26:11,300
-organiza√ß√£o de investiga√ß√£o e desenvolvimento
+organizaÁ„o de investigaÁ„o e desenvolvimento
 
 683
 00:26:11,350 --> 00:26:13,100
-MIMOS chamado que √© apoiado
+MIMOS chamado que È apoiado
 
 684
 00:26:13,150 --> 00:26:14,300
-pelo Minist√©rio da Agricultura
+pelo MinistÈrio da Agricultura
 
 685
 00:26:14,350 --> 00:26:17,700
-que afirma que, utilizando FOSS √© guardado dinheiro
+que afirma que, utilizando FOSS È guardado dinheiro
 
 686
 00:26:17,750 --> 00:26:20,100
@@ -2826,7 +2826,7 @@ todos os custos associados ao projeto.
 
 688
 00:26:23,500 --> 00:26:25,500
-Poder√≠amos ter usado o software propriet√°rio
+PoderÌamos ter usado o software propriet·rio
 
 689
 00:26:25,550 --> 00:26:27,100
@@ -2834,7 +2834,7 @@ para desenvolver Agribazaar
 
 690
 00:26:27,150 --> 00:26:30,500
-mas seria custo mais elevado para n√≥s pr√≥prios
+mas seria custo mais elevado para nÛs prÛprios
 
 691
 00:26:30,500 --> 00:26:32,500
@@ -2842,15 +2842,15 @@ o custo total de propriedade
 
 692
 00:26:32,550 --> 00:26:36,100
-se voc√™ estiver usando o propriet√°rio seria superior a
+se vocÍ estiver usando o propriet·rio seria superior a
 
 693
 00:26:36,150 --> 00:26:39,500
-se voc√™ estiver usando o Open Source Software Livre.
+se vocÍ estiver usando o Open Source Software Livre.
 
 694
 00:26:40,100 --> 00:26:43,500
-MIMOS diz o equivalente a 25.000 d√≥lares E.U.
+MIMOS diz o equivalente a 25.000 dÛlares E.U.
 
 695
 00:26:43,550 --> 00:26:44,900
@@ -2862,7 +2862,7 @@ e usando o MySQL FOSS software de servidor
 
 697
 00:26:47,950 --> 00:26:50,000
-em vez do propriet√°rio alternativas.
+em vez do propriet·rio alternativas.
 
 698
 00:26:50,050 --> 00:26:52,500
@@ -2870,11 +2870,11 @@ MIMOS alega que, a longo prazo
 
 699
 00:26:52,550 --> 00:26:54,200
-S√£o esperados mais economias
+S„o esperados mais economias
 
 700
 00:26:54,250 --> 00:26:56,000
-por n√£o ter de pagar
+por n„o ter de pagar
 
 701
 00:26:56,050 --> 00:26:57,865
@@ -2882,7 +2882,7 @@ software upgrades no futuro.
 
 702
 00:26:59,000 --> 00:27:01,900
-Agribazaar tamb√©m ajuda os produtores de pequena escala
+Agribazaar tambÈm ajuda os produtores de pequena escala
 
 703
 00:27:01,950 --> 00:27:03,500
@@ -2894,7 +2894,7 @@ eles cozinham e pacote estes lanches durante todo o dia
 
 705
 00:27:06,100 --> 00:27:08,500
-Atrav√©s do Agribazaar agora elas est√£o diretamente
+AtravÈs do Agribazaar agora elas est„o diretamente
 
 706
 00:27:08,550 --> 00:27:09,500
@@ -2902,11 +2902,11 @@ ligada aos compradores
 
 707
 00:27:09,550 --> 00:27:12,720
-que lhes permita negociar os seus pr√≥prios pre√ßos.
+que lhes permita negociar os seus prÛprios preÁos.
 
 708
 00:27:13,300 --> 00:27:15,900
-Mal√°sia da fratura digital est√° entre os pobres e ricos
+Mal·sia da fratura digital est· entre os pobres e ricos
 
 709
 00:27:15,950 --> 00:27:18,600
@@ -2918,15 +2918,15 @@ O ponto que nunca foi satisfatoriamente
 
 711
 00:27:20,950 --> 00:27:23,600
-sido atendida digital √© a galinha e do ovo.
+sido atendida digital È a galinha e do ovo.
 
 712
 00:27:23,600 --> 00:27:25,600
-n√£o estar ligado criar riqueza?
+n„o estar ligado criar riqueza?
 
 713
 00:27:25,650 --> 00:27:27,600
-ou conectividade √© um sinal de que?
+ou conectividade È um sinal de que?
 
 714
 00:27:27,600 --> 00:27:30,500
@@ -2934,27 +2934,27 @@ O governo provincial da Estremadura
 
 715
 00:27:30,550 --> 00:27:33,000
-no Sudoeste de Espanha n√£o est√° em d√∫vida.
+no Sudoeste de Espanha n„o est· em d˙vida.
 
 716
 00:27:33,450 --> 00:27:37,300
-Cap√≠tulo 8: Liga√ß√µes Regionais
+CapÌtulo 8: LigaÁıes Regionais
 
 717
 00:27:37,950 --> 00:27:40,100
-Badajoz, √© a antiga capital
+Badajoz, È a antiga capital
 
 718
 00:27:40,150 --> 00:27:41,600
-da regi√£o da Extremadura.
+da regi„o da Extremadura.
 
 719
 00:27:41,650 --> 00:27:42,900
-Esta prov√≠ncia espanhola,
+Esta provÌncia espanhola,
 
 720
 00:27:42,960 --> 00:27:44,900
-do tamanho da B√©lgica era uma das
+do tamanho da BÈlgica era uma das
 
 721
 00:27:44,950 --> 00:27:46,500
@@ -2966,7 +2966,7 @@ da Europa Ocidental.
 
 723
 00:27:47,950 --> 00:27:51,000
-Sua rede de telefone foi conclu√≠da s√≥ em 1980.
+Sua rede de telefone foi concluÌda sÛ em 1980.
 
 724
 00:27:51,050 --> 00:27:53,900
@@ -2974,27 +2974,27 @@ Agora ela deu um salto do resto da Espanha,
 
 725
 00:27:53,950 --> 00:27:56,100
-uma Intranet com liga√ß√£o a toda a regi√£o.
+uma Intranet com ligaÁ„o a toda a regi„o.
 
 726
 00:27:56,800 --> 00:27:58,500
-Os dois desafios para a conex√£o
+Os dois desafios para a conex„o
 
 727
 00:27:58,550 --> 00:28:00,100
-uma popula√ß√£o dispersa
+uma populaÁ„o dispersa
 
 728
 00:28:00,150 --> 00:28:02,900
-de apenas um milh√£o foram dist√¢ncia e dinheiro.
+de apenas um milh„o foram dist‚ncia e dinheiro.
 
 729
 00:28:03,250 --> 00:28:07,900
-Se pud√©ssemos chegar a todas as escolas associadas,
+Se pudÈssemos chegar a todas as escolas associadas,
 
 730
 00:28:07,950 --> 00:28:10,500
-poder√≠amos obter o conjunto da regi√£o ligado.
+poderÌamos obter o conjunto da regi„o ligado.
 
 731
 00:28:10,550 --> 00:28:12,900
@@ -3014,7 +3014,7 @@ As estimativas foram bastante assustador
 
 735
 00:28:19,550 --> 00:28:22,000
-porque est√°vamos falando de
+porque est·vamos falando de
 
 736
 00:28:22,050 --> 00:28:23,500
@@ -3038,15 +3038,15 @@ amos pagar para ter
 
 741
 00:28:32,950 --> 00:28:38,100
-18-20 milh√µes de euros, apenas para arrancar-los.
+18-20 milhıes de euros, apenas para arrancar-los.
 
 742
 00:28:38,150 --> 00:28:41,500
-E a partir da come√ßaram a possibilidade
+E a partir da comeÁaram a possibilidade
 
 743
 00:28:41,550 --> 00:28:43,900
-para come√ßar a usar o Software Livre.
+para comeÁar a usar o Software Livre.
 
 744
 00:28:43,950 --> 00:28:45,900
@@ -3058,35 +3058,35 @@ se conseguirmos obter essas coisas na web,
 
 746
 00:28:49,950 --> 00:28:50,900
-que √© software livre
+que È software livre
 
 747
 00:28:50,950 --> 00:28:52,950
-e se podemos utiliz√°-lo sobre os computadores,
+e se podemos utiliz·-lo sobre os computadores,
 
 748
 00:28:53,250 --> 00:28:55,900
-vamos salvar-nos na regi√£o
+vamos salvar-nos na regi„o
 
 749
 00:28:55,950 --> 00:28:57,900
-de 20 milh√µes de euros quando
+de 20 milhıes de euros quando
 
 750
 00:28:57,950 --> 00:28:59,700
-todo o sistema est√° instalado e funcionando.
+todo o sistema est· instalado e funcionando.
 
 751
 00:28:59,950 --> 00:29:01,900
-Todos os novos computadores est√£o executando o Linex,
+Todos os novos computadores est„o executando o Linex,
 
 752
 00:29:01,950 --> 00:29:05,100
-uma vers√£o em espanhol do Linux desenvolvido localmente.
+uma vers„o em espanhol do Linux desenvolvido localmente.
 
 753
 00:29:05,150 --> 00:29:06,900
-De acordo com n√∫meros divulgados pela
+De acordo com n˙meros divulgados pela
 
 754
 00:29:06,950 --> 00:29:08,200
@@ -3094,7 +3094,7 @@ Ministro das Infra-Estruturas Regionais
 
 755
 00:29:08,250 --> 00:29:09,900
-e Desenvolvimento Tecnol√≥gico
+e Desenvolvimento TecnolÛgico
 
 756
 00:29:09,900 --> 00:29:11,900
@@ -3106,11 +3106,11 @@ custo cerca de 200 mil euros
 
 758
 00:29:13,550 --> 00:29:18,900
-em 2002-2003, o per√≠odo de instala√ß√£o.
+em 2002-2003, o perÌodo de instalaÁ„o.
 
 759
 00:29:18,950 --> 00:29:21,900
-40.000 c√≥pias foram para escolas.
+40.000 cÛpias foram para escolas.
 
 760
 00:29:21,950 --> 00:29:23,900
@@ -3118,15 +3118,15 @@ As autoridades alegam que
 
 761
 00:29:23,950 --> 00:29:25,900
-se eles compraram o software propriet√°rio
+se eles compraram o software propriet·rio
 
 762
 00:29:25,950 --> 00:29:28,900
-em seguida, que teria custado cerca de 30 milh√µes de euros.
+em seguida, que teria custado cerca de 30 milhıes de euros.
 
 763
 00:29:29,200 --> 00:29:31,900
-A equipe tamb√©m alega que Linex
+A equipe tambÈm alega que Linex
 
 764
 00:29:31,950 --> 00:29:33,900
@@ -3134,15 +3134,15 @@ Livre e Open Source Software
 
 765
 00:29:33,950 --> 00:29:35,900
-ser√° realmente guardar dinheiro Estremadura
+ser· realmente guardar dinheiro Estremadura
 
 766
 00:29:35,950 --> 00:29:38,900
-atrav√©s da extens√£o da vida √∫til dos seus computadores.
+atravÈs da extens„o da vida ˙til dos seus computadores.
 
 767
 00:29:39,000 --> 00:29:41,100
-De um lado h√° uma poupan√ßa feita
+De um lado h· uma poupanÁa feita
 
 768
 00:29:41,150 --> 00:29:44,900
@@ -3154,11 +3154,11 @@ a tem sido um enorme investimento em hardware
 
 770
 00:29:47,150 --> 00:29:50,900
-Agora, este custo est√° previsto para ser amortizado ao longo do tempo
+Agora, este custo est· previsto para ser amortizado ao longo do tempo
 
 771
 00:29:50,950 --> 00:29:53,900
-porque esses computadores ser√£o
+porque esses computadores ser„o
 
 772
 00:29:53,950 --> 00:29:55,900
@@ -3170,11 +3170,11 @@ porque o sistema operativo utilizado
 
 774
 00:29:57,250 --> 00:30:00,900
-√© apoiada por n√≥s mesmos e
+È apoiada por nÛs mesmos e
 
 775
 00:30:00,950 --> 00:30:02,300
-podemos modific√°-lo
+podemos modific·-lo
 
 776
 00:30:02,350 --> 00:30:03,900
@@ -3186,7 +3186,7 @@ Porque uma das coisas interessantes
 
 778
 00:30:05,550 --> 00:30:06,900
-sobre Software Livre √© a de que
+sobre Software Livre È a de que
 
 779
 00:30:06,950 --> 00:30:09,900
@@ -3198,11 +3198,11 @@ para satisfazer as nossas necessidades, em muitos casos.
 
 781
 00:30:12,950 --> 00:30:14,500
-Extremadura est√° tamb√©m a prestar
+Extremadura est· tambÈm a prestar
 
 782
 00:30:14,550 --> 00:30:16,900
-livre cursos de forma√ß√£o em inform√°tica
+livre cursos de formaÁ„o em inform·tica
 
 783
 00:30:16,950 --> 00:30:19,900
@@ -3210,7 +3210,7 @@ utilizando FOSS financiado pelas autoridades locais.
 
 784
 00:30:19,950 --> 00:30:21,500
-V√°rios sites t√™m evolu√≠do
+V·rios sites tÍm evoluÌdo
 
 785
 00:30:21,550 --> 00:30:22,900
@@ -3218,7 +3218,7 @@ cursos a partir do computador,
 
 786
 00:30:22,950 --> 00:30:24,900
-incluindo um com as grava√ß√µes de
+incluindo um com as gravaÁıes de
 
 787
 00:30:24,950 --> 00:30:26,500
@@ -3238,27 +3238,27 @@ e desempenham a sua igreja local sinos,
 
 791
 00:30:32,950 --> 00:30:34,900
-expatriados e migrantes alde√µes,
+expatriados e migrantes aldeıes,
 
 792
 00:30:34,950 --> 00:30:35,900
-alguns que j√° moveu t√£o longe
+alguns que j· moveu t„o longe
 
 793
 00:30:35,950 --> 00:30:38,900
-como a Am√©rica Latina, se sentem menos saudades!
+como a AmÈrica Latina, se sentem menos saudades!
 
 794
 00:30:39,950 --> 00:30:41,900
-No entanto apenas tr√™s da Espanha
+No entanto apenas trÍs da Espanha
 
 795
 00:30:41,950 --> 00:30:44,900
-Outras 17 prov√≠ncias t√™m planos para seguir o exemplo,
+Outras 17 provÌncias tÍm planos para seguir o exemplo,
 
 796
 00:30:44,950 --> 00:30:48,800
-Estremadura, mas alega que √© a √∫nica regi√£o da Europa
+Estremadura, mas alega que È a ˙nica regi„o da Europa
 
 797
 00:30:48,850 --> 00:30:49,900
@@ -3266,23 +3266,23 @@ com um computador entre
 
 798
 00:30:49,950 --> 00:30:51,900
-dois estudantes em escolas secund√°rias
+dois estudantes em escolas secund·rias
 
 799
 00:30:51,950 --> 00:30:53,900
-e diz que esta √©, em grande parte
+e diz que esta È, em grande parte
 
 800
 00:30:53,950 --> 00:30:55,100
-gra√ßas ao uso de
+graÁas ao uso de
 
 801
 00:30:55,150 --> 00:30:56,900
-Gr√°tis um Open Source Software.
+Gr·tis um Open Source Software.
 
 802
 00:30:56,950 --> 00:30:59,100
-A Microsoft ainda n√£o est√° pedindo
+A Microsoft ainda n„o est· pedindo
 
 803
 00:30:59,150 --> 00:31:00,900
@@ -3294,7 +3294,7 @@ O tamanho do desafio de fornecer acesso
 
 805
 00:31:04,550 --> 00:31:05,500
-tecnologia da informa√ß√£o
+tecnologia da informaÁ„o
 
 806
 00:31:05,550 --> 00:31:07,900
@@ -3302,15 +3302,15 @@ em particular, no mundo em desenvolvimento
 
 807
 00:31:07,950 --> 00:31:09,700
-no setor da educa√ß√£o
+no setor da educaÁ„o
 
 808
 00:31:09,750 --> 00:31:11,200
-√© t√£o grande que eu penso
+È t„o grande que eu penso
 
 809
 00:31:11,250 --> 00:31:12,950
-h√° espa√ßo para ambos os modelos,
+h· espaÁo para ambos os modelos,
 
 810
 00:31:13,000 --> 00:31:14,900
@@ -3318,7 +3318,7 @@ e todos temos um papel a desempenhar
 
 811
 00:31:14,950 --> 00:31:16,900
-em garantir que as crian√ßas tenham acesso
+em garantir que as crianÁas tenham acesso
 
 812
 00:31:16,950 --> 00:31:18,500
@@ -3326,11 +3326,11 @@ para as ferramentas que eles precisam
 
 813
 00:31:18,550 --> 00:31:19,600
-para o s√©culo 21.
+para o sÈculo 21.
 
 814
 00:31:19,950 --> 00:31:22,500
-Nosso √∫ltimo olhar FOSS em a√ß√£o
+Nosso ˙ltimo olhar FOSS em aÁ„o
 
 815
 00:31:22,550 --> 00:31:24,900
@@ -3338,11 +3338,11 @@ levar-nos ao longe cantos do globo.
 
 816
 00:31:26,800 --> 00:31:28,800
-Cap√≠tulo 9: Evolu√ß√£o de Gest√£o
+CapÌtulo 9: EvoluÁ„o de Gest„o
 
 817
 00:31:28,950 --> 00:31:30,100
-Gal√°pagos √©
+Gal·pagos È
 
 818
 00:31:30,150 --> 00:31:32,900
@@ -3350,11 +3350,11 @@ um conjunto de ilhas ao largo da costa do Equador,
 
 819
 00:31:32,950 --> 00:31:34,200
-uma vez que a √∫nica fora visitantes
+uma vez que a ˙nica fora visitantes
 
 820
 00:31:34,250 --> 00:31:36,300
-foram intr√©pidos cientistas,
+foram intrÈpidos cientistas,
 
 821
 00:31:36,350 --> 00:31:37,900
@@ -3362,11 +3362,11 @@ incluindo Charles Darwin.
 
 822
 00:31:38,300 --> 00:31:40,900
-Eles n√£o se pouparam a invas√£o de turistas
+Eles n„o se pouparam a invas„o de turistas
 
 823
 00:31:40,950 --> 00:31:42,900
-que com o advento das viagens a√©reas mais baratas
+que com o advento das viagens aÈreas mais baratas
 
 824
 00:31:42,950 --> 00:31:44,900
@@ -3378,11 +3378,11 @@ Mas turistas significam dinheiro para a economia local.
 
 826
 00:31:47,950 --> 00:31:50,900
-O Parque Nacional Gal√°pagos autoridade est√° a cargo
+O Parque Nacional Gal·pagos autoridade est· a cargo
 
 827
 00:31:50,950 --> 00:31:52,900
-do turismo no arquip√©lago.
+do turismo no arquipÈlago.
 
 828
 00:31:52,950 --> 00:31:57,900
@@ -3394,31 +3394,31 @@ a maioria destes eram eco-turistas
 
 830
 00:32:00,950 --> 00:32:02,500
-atra√≠dos para a Gal√°pagos pelo
+atraÌdos para a Gal·pagos pelo
 
 831
 00:32:02,550 --> 00:32:03,900
-seu incr√≠vel ambiente preservado.
+seu incrÌvel ambiente preservado.
 
 832
 00:32:03,950 --> 00:32:05,900
-Esta qualidade preciosa de intocado √© que
+Esta qualidade preciosa de intocado È que
 
 833
 00:32:05,950 --> 00:32:08,900
-o Parque Nacional est√° tentando preservar.
+o Parque Nacional est· tentando preservar.
 
 834
 00:32:09,100 --> 00:32:13,900
-Gal√°pagos est√° tornando-se saturado pelos visitantes.
+Gal·pagos est· tornando-se saturado pelos visitantes.
 
 835
 00:32:13,950 --> 00:32:16,200
-A necessidade de ter um m√©todo de controle
+A necessidade de ter um mÈtodo de controle
 
 836
 00:32:16,250 --> 00:32:17,900
-acompanhamento √© o visitante sites
+acompanhamento È o visitante sites
 
 837
 00:32:17,950 --> 00:32:20,500
@@ -3426,7 +3426,7 @@ da mais alta prioridade
 
 838
 00:32:20,550 --> 00:32:22,500
-por causa da nossa pol√≠tica de conserva√ß√£o.
+por causa da nossa polÌtica de conservaÁ„o.
 
 839
 00:32:22,550 --> 00:32:25,100
@@ -3434,7 +3434,7 @@ Sem uma forma estruturada para gerenciar
 
 840
 00:32:25,150 --> 00:32:26,200
-conserva√ß√£o nossas √°reas
+conservaÁ„o nossas ·reas
 
 841
 00:32:26,250 --> 00:32:29,100
@@ -3446,7 +3446,7 @@ e ainda menos para preservar
 
 843
 00:32:30,950 --> 00:32:32,200
-nesta √°rea para as futuras gera√ß√µes.
+nesta ·rea para as futuras geraÁıes.
 
 844
 00:32:32,600 --> 00:32:34,700
@@ -3454,7 +3454,7 @@ O Parque Nacional disse que recentemente escolheram FOSS
 
 845
 00:32:34,750 --> 00:32:36,900
-devido ao seu afastamento geogr√°fico
+devido ao seu afastamento geogr·fico
 
 846
 00:32:36,950 --> 00:32:38,900
@@ -3466,7 +3466,7 @@ pelas autoridades locais dos programadores de software
 
 848
 00:32:40,950 --> 00:32:42,900
-que j√° estavam familiarizados com PHP
+que j· estavam familiarizados com PHP
 
 849
 00:32:42,950 --> 00:32:44,900
@@ -3474,7 +3474,7 @@ e Open Source database software
 
 850
 00:32:44,950 --> 00:32:46,900
-e poderia desenvolver uma base de dados do sistema de gest√£o
+e poderia desenvolver uma base de dados do sistema de gest„o
 
 851
 00:32:46,950 --> 00:32:48,900
@@ -3482,7 +3482,7 @@ adaptados para atender as suas necessidades como
 
 852
 00:32:48,950 --> 00:32:51,100
-bem como economizar custos iniciais de licen√ßa.
+bem como economizar custos iniciais de licenÁa.
 
 853
 00:32:51,100 --> 00:32:53,700
@@ -3494,15 +3494,15 @@ incluindo uma tartaruga gigante criadouros programa,
 
 855
 00:32:56,950 --> 00:32:58,500
-uma das maiores atra√ß√µes
+uma das maiores atraÁıes
 
 856
 00:32:58,550 --> 00:33:00,900
-para os visitantes aos Gal√°pagos.
+para os visitantes aos Gal·pagos.
 
 857
 00:33:00,950 --> 00:33:02,900
-Informa√ß√µes que nos n√£o t√£o distante
+InformaÁıes que nos n„o t„o distante
 
 858
 00:33:02,950 --> 00:33:04,500
@@ -3514,11 +3514,11 @@ tomadas meses para processo
 
 860
 00:33:05,950 --> 00:33:07,900
-est√° agora √† sua disposi√ß√£o,
+est· agora ‡ sua disposiÁ„o,
 
 861
 00:33:07,950 --> 00:33:09,900
-e considerando que o n√∫mero de turistas
+e considerando que o n˙mero de turistas
 
 862
 00:33:09,950 --> 00:33:11,500
@@ -3534,27 +3534,27 @@ para mais de 120.000,
 
 865
 00:33:15,950 --> 00:33:18,500
-vital que essa informa√ß√£o √© cuidadosamente monitorizado
+vital que essa informaÁ„o È cuidadosamente monitorizado
 
 866
 00:33:18,550 --> 00:33:20,600
-para garantir a sobreviv√™ncia da √°rea.
+para garantir a sobrevivÍncia da ·rea.
 
 867
 00:33:22,950 --> 00:33:24,900
-Cap√≠tulo 10: O futuro digital
+CapÌtulo 10: O futuro digital
 
 868
 00:33:24,950 --> 00:33:26,900
-Na Encontro das Na√ß√µes Unidas 2005
+Na Encontro das NaÁıes Unidas 2005
 
 869
 00:33:26,950 --> 00:33:28,900
-sobre a Sociedade da Informa√ß√£o na Tun√≠sia,
+sobre a Sociedade da InformaÁ„o na TunÌsia,
 
 870
 00:33:28,950 --> 00:33:30,900
-delegados convocadas para resolver a quest√£o
+delegados convocadas para resolver a quest„o
 
 871
 00:33:30,950 --> 00:33:32,800
@@ -3570,15 +3570,15 @@ Foi o que todo mundo estava falando.
 
 874
 00:33:37,100 --> 00:33:40,400
-Hoje Open Source √© um l√≠der
+Hoje Open Source È um lÌder
 
 875
 00:33:40,950 --> 00:33:44,900
-na partilha de conhecimentos para benef√≠cio de todos
+na partilha de conhecimentos para benefÌcio de todos
 
 876
 00:33:44,950 --> 00:33:49,900
-n√≥s oferecemos um dos m√©todos mais eficazes ainda tentou
+nÛs oferecemos um dos mÈtodos mais eficazes ainda tentou
 
 877
 00:33:49,950 --> 00:33:53,900
@@ -3610,11 +3610,11 @@ a fratura digital e cada vez mais amplo.
 
 883
 00:34:12,950 --> 00:34:14,900
-Ent√£o como √© que olha para o futuro FOSS?
+Ent„o como È que olha para o futuro FOSS?
 
 884
 00:34:14,950 --> 00:34:16,900
-Como vai tarifa na evolu√ß√£o do software?
+Como vai tarifa na evoluÁ„o do software?
 
 885
 00:34:16,950 --> 00:34:19,000
@@ -3626,11 +3626,11 @@ incluindo representantes
 
 887
 00:34:20,950 --> 00:34:23,700
-de 3 de computador comercial ind√∫stria gigantes.
+de 3 de computador comercial ind˙stria gigantes.
 
 888
 00:34:23,950 --> 00:34:25,200
-Algu√©m disse recentemente que
+AlguÈm disse recentemente que
 
 889
 00:34:25,250 --> 00:34:27,400
@@ -3638,11 +3638,11 @@ um moderno sistema operacional
 
 890
 00:34:27,450 --> 00:34:29,200
-√© muito mais complicada em termos de n√∫mero
+È muito mais complicada em termos de n˙mero
 
 891
 00:34:29,250 --> 00:34:31,100
-de componentes que tem, bem como o n√∫mero de intera√ß√µes
+de componentes que tem, bem como o n˙mero de interaÁıes
 
 892
 00:34:31,150 --> 00:34:33,700
@@ -3650,7 +3650,7 @@ entre eles do que dizer um jumbo jet
 
 893
 00:34:33,750 --> 00:34:35,900
-e aquilo que estamos a conclus√£o √© que,
+e aquilo que estamos a conclus„o È que,
 
 894
 00:34:35,950 --> 00:34:37,900
@@ -3658,11 +3658,11 @@ esta pode ser, talvez, o significado real
 
 895
 00:34:37,950 --> 00:34:39,600
-do Open Source √© que
+do Open Source È que
 
 896
 00:34:39,650 --> 00:34:42,700
-estas s√£o coisas que agora s√£o t√£o complicadas
+estas s„o coisas que agora s„o t„o complicadas
 
 897
 00:34:42,750 --> 00:34:45,300
@@ -3674,15 +3674,15 @@ bem apetrechada empresas como a Microsoft
 
 899
 00:34:46,950 --> 00:34:48,900
-flambagem est√£o sob a estirpe
+flambagem est„o sob a estirpe
 
 900
 00:34:48,950 --> 00:34:49,700
-e o meu palpite √© que aquilo que
+e o meu palpite È que aquilo que
 
 901
 00:34:49,750 --> 00:34:52,400
-podemos encontrar em rela√ß√£o ao Open Source √© que pode
+podemos encontrar em relaÁ„o ao Open Source È que pode
 
 902
 00:34:52,450 --> 00:34:53,900
@@ -3690,19 +3690,19 @@ ou muitos tipos de softwares complexos de produtos
 
 903
 00:34:53,950 --> 00:34:55,900
-Open Source √© a melhor maneira de faz√™-lo.
+Open Source È a melhor maneira de fazÍ-lo.
 
 904
 00:34:56,050 --> 00:34:59,200
-E como √© que a IBM v√™ o futuro do FOSS?
+E como È que a IBM vÍ o futuro do FOSS?
 
 905
 00:34:59,300 --> 00:35:01,900
-O que temos visto √© que, ao longo dos √∫ltimos
+O que temos visto È que, ao longo dos ˙ltimos
 
 906
 00:35:01,950 --> 00:35:03,900
-anos, a ado√ß√£o de Linux e
+anos, a adoÁ„o de Linux e
 
 907
 00:35:03,950 --> 00:35:06,700
@@ -3710,7 +3710,7 @@ Software Livre tem acelerado
 
 908
 00:35:06,800 --> 00:35:09,900
-Linux √© o sistema operacional de servidor mais r√°pido crescimento,
+Linux È o sistema operacional de servidor mais r·pido crescimento,
 
 909
 00:35:09,950 --> 00:35:11,900
@@ -3722,19 +3722,19 @@ e outro software Open Source
 
 911
 00:35:13,450 --> 00:35:14,900
-est√° agora a come√ßar a ser utilizado
+est· agora a comeÁar a ser utilizado
 
 912
 00:35:14,950 --> 00:35:17,100
-e ela est√° abrindo essas possibilidades
+e ela est· abrindo essas possibilidades
 
 913
 00:35:17,150 --> 00:35:20,900
-para a inova√ß√£o colaborativa entre os vendedores de TI,
+para a inovaÁ„o colaborativa entre os vendedores de TI,
 
 914
 00:35:20,950 --> 00:35:24,500
-tamb√©m entre as TI e as universidades
+tambÈm entre as TI e as universidades
 
 915
 00:35:24,550 --> 00:35:25,900
@@ -3742,15 +3742,15 @@ individuais e programadores,
 
 916
 00:35:25,950 --> 00:35:27,600
-por isso √© uma id√©ia cujo tempo chegou, acho.
+por isso È uma idÈia cujo tempo chegou, acho.
 
 917
 00:35:27,700 --> 00:35:29,300
-Parece que a pr√≥pria Microsoft
+Parece que a prÛpria Microsoft
 
 918
 00:35:29,350 --> 00:35:30,900
-agora tamb√©m acredita
+agora tambÈm acredita
 
 919
 00:35:30,950 -> 00:35:33,500
@@ -3762,19 +3762,19 @@ Quando olhamos para os desafios
 
 921
 00:35:34,550 -> 00:35:35,900
-que s√£o enfrentados em todo o mundo
+que s„o enfrentados em todo o mundo
 
 922
 00:35:35,950 -> 00:35:37,500
-e quando olhamos para os v√°rios modelos
+e quando olhamos para os v·rios modelos
 
 923
 00:35:37,550 -> 00:35:39,600
-que est√£o dispon√≠veis para resolver esses desafios
+que est„o disponÌveis para resolver esses desafios
 
 924
 00:35:39,650 -> 00:35:41,900
-reconhecemos h√° espa√ßo para todos
+reconhecemos h· espaÁo para todos
 
 925
 00:35:41,950 -> 00:35:43,900
@@ -3786,11 +3786,11 @@ E a comunidade de fonte aberta novamente
 
 927
 00:35:45,950 -> 00:35:47,900
-estimulates inova√ß√£o em software,
+estimulates inovaÁ„o em software,
 
 928
 00:35:47,950 -> 00:35:49,500
-√© algo que francamente
+È algo que francamente
 
 929
 00:35:49,550 -> 00:35:51,900
@@ -3806,11 +3806,11 @@ para o desenvolvimento da comunidade,
 
 932
 00:35:54,650 -> 00:35:56,900
-que gera uma maior inova√ß√£o em torno de software
+que gera uma maior inovaÁ„o em torno de software
 
 933
 00:35:56,950 -> 00:35:58,600
-e √© algo que absolutamente
+e È algo que absolutamente
 
 934
 00:35:58,650 -> 00:36:01,500
@@ -3826,7 +3826,7 @@ hardware e software developer
 
 937
 00:36:04,550 -> 00:36:07,700
-Sun Microsystems, tamb√©m est√£o usando Open Source.
+Sun Microsystems, tambÈm est„o usando Open Source.
 
 938
 00:36:07,950 -> 00:36:09,600
@@ -3834,7 +3834,7 @@ Acho que vamos ver mais e mais
 
 939
 00:36:09,650 -> 00:36:14,900
-corpora√ß√µes e at√© mesmo as pequenas empresas
+corporaÁıes e atÈ mesmo as pequenas empresas
 
 940
 00:36:14,950 -> 00:36:17,400
@@ -3850,11 +3850,11 @@ Certamente na Sun Microsystems
 
 943
 00:36:21,550 -> 00:36:23,100
-n√≥s decidimos h√° 2 anos
+nÛs decidimos h· 2 anos
 
 944
 00:36:23,150 -> 00:36:24,900
-que n√£o fazia sentido
+que n„o fazia sentido
 
 945
 00:36:24,950 -> 00:36:26,900
@@ -3870,7 +3870,7 @@ por trabalhar com o global
 
 948
 00:36:30,550 -> 00:36:32,500
-multid√£o de peritos
+multid„o de peritos
 
 949
 00:36:32,550 -> 00:36:35,400
@@ -3878,15 +3878,15 @@ do que por tentar identificar
 
 950
 00:36:35,450 -> 00:36:38,700
-que o verdadeiro g√™nio e estavam a tentar sua contrata√ß√£o.
+que o verdadeiro gÍnio e estavam a tentar sua contrataÁ„o.
 
 951
 00:36:38,950 -> 00:36:40,700
-Ent√£o, parece que h√° um n√∫mero
+Ent„o, parece que h· um n˙mero
 
 952
 00:36:40,750 -> 00:36:43,500
-das raz√µes que tornam a vida mais f√°cil FOSS maio
+das razıes que tornam a vida mais f·cil FOSS maio
 
 953
 00:36:43,550 -> 00:36:44,700
@@ -3894,15 +3894,15 @@ digitalmente para privar
 
 954
 00:36:44,750 -> 00:36:46,900
-aqui n√£o est√£o √† frente dos custos e, portanto,
+aqui n„o est„o ‡ frente dos custos e, portanto,
 
 955
 00:36:46,950 -> 00:36:48,900
-n√£o precisam de ser tentado por softwares piratas
+n„o precisam de ser tentado por softwares piratas
 
 956
 00:36:48,950 -> 00:37:52,900
-geeks e n√£o-geeks podem criar comunidades virtuais
+geeks e n„o-geeks podem criar comunidades virtuais
 
 957
 00:36:52,950 -> 00:36:53,900
@@ -3910,11 +3910,11 @@ para inventar novos softwares
 
 958
 00:36:53,950 -> 00:36:55,900
-taxas de servi√ßo pode ser o mesmo ou acentuada
+taxas de serviÁo pode ser o mesmo ou acentuada
 
 959
 00:36:55,950 -> 00:36:57,900
-do que para o software propriet√°rio,
+do que para o software propriet·rio,
 
 960
 00:36:57,950 -> 00:37:00,900
@@ -3922,19 +3922,19 @@ mas no mundo em desenvolvimento, onde trabalhadores qualificados
 
 961
 00:37:00,950 -> 00:37:02,900
-√© relativamente barato que √© menos de um problema.
+È relativamente barato que È menos de um problema.
 
 962
 00:37:02,950 -> 00:37:06,700
-e da adaptabilidade do software tamb√©m significa
+e da adaptabilidade do software tambÈm significa
 
 963
 00:37:06,750 -> 00:37:08,900
-que os programas podem ser escritos em l√≠nguas locais,
+que os programas podem ser escritos em lÌnguas locais,
 
 964
 00:37:08,950 -> 00:37:10,500
-a grande maioria das quais n√£o s√£o
+a grande maioria das quais n„o s„o
 
 965
 00:37:10,550 -> 00:37:13,200
@@ -3942,19 +3942,19 @@ encontrava prevista no fora-de-prateleira do software
 
 966
 00:37:13,250 -> 00:37:14,500
-Isso quer dizer que ser√° FOSS
+Isso quer dizer que ser· FOSS
 
 967
 00:37:14,550 -> 00:37:16,000
-a ponte sobre o divis√£o digital?
+a ponte sobre o divis„o digital?
 
 968
 00:37:16,050 -> 00:37:17,900
-Ningu√©m pode dizer com certeza.
+NinguÈm pode dizer com certeza.
 
 969
 00:37:17,950 -> 00:37:20,900
-Mas o que √© certo √© que os evangelistas
+Mas o que È certo È que os evangelistas
 
 970
 00:37:20,950 -> 00:37:22,900
@@ -3962,4 +3962,4 @@ para software livre e open source
 
 971
 00:37:22,950 -> 00:37:25,200
-n√£o v√£o parar na sua louvores.
+n„o v„o parar na sua louvores.
