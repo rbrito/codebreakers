@@ -441,7 +441,7 @@ entre os pobres e os ricos deve fechar?
 
 102
 00:04:19,000 --> 00:04:22,000
-Capítulo 1: As Quatro Liberdades
+CAPÍTULO 1: As Quatro Liberdades
 
 103
 00:04:24,000 --> 00:04:26,700
@@ -684,15 +684,15 @@ sem pagar nada.
 
 160
 00:06:33,300 --> 00:06:35,100
-Segundo "The Linux Counter"
+Segundo "The Linux Counter",
 
 161
 00:06:35,150 --> 00:06:37,900
-um site pró-Open Source
+um site pró-Open Source,
 
 162
 00:06:38,000 --> 00:06:39,500
-Estima-se que haja
+estima-se que haja
 
 163
 00:06:39,550 --> 00:06:41,900
@@ -708,44 +708,44 @@ não há números em que basear a estimativa.
 
 166
 00:06:48,000 --> 00:06:49,500
-Nunca ouvi falar de FOSS.
+- Nunca ouvi falar de FOSS.
 
 167
 00:06:49,550 --> 00:06:51,400
-Não, nunca ouvi falar de FOSS.
+- Não, nunca ouvi falar de FOSS.
 
 168
 00:06:51,600 --> 00:06:53,900
-Não, eu não sei o que é FOSS.
+- Não, eu não sei o que é FOSS.
 
 169
 00:06:54,100 --> 00:06:58,500
-Eu já ouvi falar de
+- Eu já ouvi falar de
 Software Livre e Aberto.
 
 170
 00:06:58,550 --> 00:07:00,900
-Não, nunca ouvi falar de FOSS.
+- Não, nunca ouvi falar de FOSS.
 
 171
 00:07:00,950 --> 00:07:02,800
-Não, eu nunca ouvi falar de FOSS.
+- Não, eu nunca ouvi falar de FOSS.
 
 172
 00:07:02,850 --> 00:07:04,800
-Não sei o que é.
+- Não sei o que é.
 
 173
 00:07:05,200 --> 00:07:06,500
-Eu nunca ouvi falar de FOSS.
+- Eu nunca ouvi falar de FOSS.
 
 174
 00:07:06,700 --> 00:07:09,200
-Não sei o que é. O que é?
+- Não sei o que é. O que é?
 
 175
 00:07:09,600 --> 00:07:11,500
-Sim, conheço Software Livre e Código Aberto
+- Sim, conheço Software Livre e Código Aberto
 
 176
 00:07:11,550 --> 00:07:12,900
@@ -1045,7 +1045,7 @@ dos fornecedores de software proprietário.
 
 248
 00:10:00,950 --> 00:10:04,500
-Capítulo 2: A Rede se espalha um pouco
+CAPÍTULO 2: A Rede se espalha um pouco
 
 249
 00:10:04,800 --> 00:10:06,900
@@ -1272,7 +1272,7 @@ e à Internet.
 
 303
 00:12:17,000 --> 00:12:20,900
-Capítulo 3: Software Livre
+CAPÍTULO 3: Software Livre
 
 304
 00:12:22,500 --> 00:12:23,500
@@ -1722,7 +1722,7 @@ estão a ser abertos em uma maneira diferente.
 
 412
 00:16:16,950 --> 00:16:19,900
-Capítulo 4: Uma porta Digital
+CAPÍTULO 4: Uma porta Digital
 
 413
 00:16:21,100 --> 00:16:22,500
@@ -2750,7 +2750,7 @@ ser um outro passo no sentido de colmatar o fosso digital?
 
 669
 00:25:40,500 --> 00:25:43,500
-Capítulo 7: Web dá Frutos
+CAPÍTULO 7: Web dá Frutos
 
 670
 00:25:45,000 --> 00:25:46,500
@@ -2938,7 +2938,7 @@ no Sudoeste de Espanha não está em dúvida.
 
 716
 00:27:33,450 --> 00:27:37,300
-Capítulo 8: Ligações Regionais
+CAPÍTULO 8: Ligações Regionais
 
 717
 00:27:37,950 --> 00:27:40,100
@@ -3338,7 +3338,7 @@ levar-nos ao longe cantos do globo.
 
 816
 00:31:26,800 --> 00:31:28,800
-Capítulo 9: Evolução de Gestão
+CAPÍTULO 9: Evolução de Gestão
 
 817
 00:31:28,950 --> 00:31:30,100
@@ -3542,7 +3542,7 @@ para garantir a sobrevivência da área.
 
 867
 00:33:22,950 --> 00:33:24,900
-Capítulo 10: O futuro digital
+CAPÍTULO 10: O futuro digital
 
 868
 00:33:24,950 --> 00:33:26,900
@@ -3950,7 +3950,7 @@ a ponte sobre o divisão digital?
 
 968
 00:37:16,050 -> 00:37:17,900
-Ninguém pode dizer com certeza.
+Ninguém sabe com certeza.
 
 969
 00:37:17,950 -> 00:37:20,900
@@ -3958,8 +3958,8 @@ Mas o que é certo é que os evangelistas
 
 970
 00:37:20,950 -> 00:37:22,900
-para software livre e open source
+de Software Livre e open source
 
 971
 00:37:22,950 -> 00:37:25,200
-não vão parar na sua louvores.
+não vão parar suas recomendações.
