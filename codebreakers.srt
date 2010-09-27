@@ -22,7 +22,7 @@ quase todos piratas.
 
 6
 00:00:23,100 --> 00:00:24,600
-Na outra metade do
+No outro lado do
 mundo, no Brasil,
 
 7
@@ -32,21 +32,21 @@ mas a mesma história:
 
 8
 00:00:27,950 --> 00:00:28,900
-Vendedores ambulantes
+ambulantes
 
 9
 00:00:28,950 --> 00:00:31,900
-abertamente vendem
-DVDs e software piratas
+vendem DVDs e software
+piratas abertamente
 
 10
 00:00:31,950 --> 00:00:34,100
-em "lojas" improvisadas de lona.
+em "lojas" improvisadas.
 
 11
 00:00:34,900 --> 00:00:37,900
-Pirataria de software é
-tão comum que os vendedores
+Pirataria é tão comum que
+os vendedores
 
 12
 00:00:37,950 --> 00:00:40,100
@@ -67,8 +67,8 @@ em países onde
 
 16
 00:00:48,950 --> 00:00:51,300
-um trabalhador médio de
-escritório teria que trabalhar
+um trabalhador típico de escritório
+teria que trabalhar
 
 17
 00:00:51,350 --> 00:00:52,500
@@ -76,7 +76,7 @@ mais de um mês para poder
 
 18
 00:00:52,550 --> 00:00:55,200
-comprar software legalmente.
+comprar software legal.
 
 19
 00:00:55,950 --> 00:00:58,900
@@ -111,7 +111,7 @@ Eles têm uma coisa em comum
 
 26
 00:01:11,350 --> 00:01:12,900
-com o software pirata:
+com os piratas:
 
 27
 00:01:13,200 --> 00:01:15,150
@@ -133,7 +133,7 @@ aqui também querem fazer
 
 31
 00:01:21,950 --> 00:01:24,300
-o software acessível para
+software acessível para
 os marginalizados digitais
 
 32
@@ -222,12 +222,12 @@ Programas amplamente utilizados
 
 51
 00:02:11,500 --> 00:02:13,700
-como o Thunderbird e o OpenOffice
+como Thunderbird e OpenOffice
 
 52
 00:02:13,950 --> 00:02:16,500
-podem ser copiados e utilizados
-legalmente por qualquer pessoa
+podem ser copiados e usados
+legalmente por qualquer um
 
 53
 00:02:16,550 --> 00:02:18,000
@@ -235,8 +235,7 @@ sem ter que pagar por eles.
 
 54
 00:02:18,550 --> 00:02:21,000
-Mais de 90% de todos
-os desktops e laptops
+Mais de 90% dos desktops e laptops
 
 55
 00:02:21,050 --> 00:02:24,000
@@ -248,11 +247,11 @@ como de empresas como a Apple ou Microsoft,
 
 57
 00:02:27,550 --> 00:02:30,000
-Eles vêem software livre como uma ameaça.
+Elas vêem software livre como uma ameaça.
 
 58
 00:02:30,150 --> 00:02:32,100
-Penso que o desafio que
+Acho que o desafio que isso
 representa para a Microsoft
 
 59
@@ -331,7 +330,7 @@ e pode ser a ponte
 
 76
 00:03:10,650 --> 00:03:12,400
-para a exclusão digital?
+para a exclusão digital.
 
 77
 00:03:12,500 --> 00:03:14,000
@@ -364,7 +363,7 @@ mas custa menos.
 
 84
 00:03:27,700 --> 00:03:30,100
-Calcula-se mais de 100 mil
+Calculam-se mais de 100 mil
 
 85
 00:03:30,150 --> 00:03:33,000
@@ -405,11 +404,11 @@ e uma quota de 14% nos EUA.
 
 93
 00:03:53,600 --> 00:03:56,500
-O Apache, o servidor livre de Web
+O Apache, o servidor livre de Web,
 
 94
 00:03:56,550 --> 00:03:58,900
-é utilizado por mais de 60% de todos os sites
+é usado por mais de 60% de todos os sites
 
 95
 00:03:58,950 --> 00:04:01,900
@@ -417,7 +416,7 @@ da Internet, incluindo de gigantes da web
 
 96
 00:04:01,950 --> 00:04:03,900
-como a Google e a Amazon.
+como Google e Amazon.
 
 97
 00:04:05,000 --> 00:04:07,200
@@ -449,15 +448,15 @@ Só acadêmicos de meia-idade lembrarão
 
 104
 00:04:26,750 --> 00:04:28,000
-que mais de duas décadas atrás
+de mais de duas décadas atrás,
 
 105
 00:04:28,050 --> 00:04:30,000
-quando computadores chegaram a universidades
+quando computadores chegaram às universidades,
 
 106
 00:04:30,050 --> 00:04:33,300
-que o código fonte era livremente trocado
+que o código-fonte era livremente trocado
 
 107
 00:04:33,350 --> 00:04:35,200
@@ -465,13 +464,13 @@ e programadores eram pagos
 
 108
 00:04:35,250 --> 00:04:38,500
-para programar e não para os
+para programar e não pelos
 programas propriamente ditos.
 
 109
 00:04:38,550 --> 00:04:41,400
 Daí, as coisas mudaram,
-quando computadores entraram
+quando os computadores entraram
 
 110
 00:04:41,450 --> 00:04:43,500
@@ -492,7 +491,7 @@ restringindo o acesso ao código fonte.
 
 114
 00:04:49,300 --> 00:04:51,000
-Em 1984 Richard Stallman,
+Em 1984, Richard Stallman,
 
 115
 00:04:51,050 --> 00:04:52,900
@@ -512,7 +511,7 @@ e iniciou o que ele chamou de
 
 119
 00:04:56,950 --> 00:04:59,000
-Movimento de Software Livre.
+"Movimento de Software Livre".
 
 120
 00:04:59,950 --> 00:05:00,900
@@ -533,23 +532,23 @@ governos ou corporações
 
 124
 00:05:08,300 --> 00:05:10,300
-para alterar suas políticas,
+para alterar suas políticas...
 
 125
 00:05:10,350 --> 00:05:13,200
-mas eu sei escrever software.
+Mas eu sei escrever software.
 
 126
 00:05:13,250 --> 00:05:15,300
-então eu disse: "Eu vou desenvolver
+Então, eu disse: "Eu vou desenvolver
 
 127
 00:05:15,350 --> 00:05:17,000
-outro sistema operacional,
+outro sistema operacional
 
 128
 00:05:17,100 --> 00:05:19,500
-e com a ajuda de quem quiser se aliar
+com a ajuda de quem quiser se aliar
 
 129
 00:05:19,550 --> 00:05:22,900
@@ -578,7 +577,7 @@ como as quatro liberdades.
 135
 00:05:31,950 --> 00:05:35,500
 Liberdade 0:
-é a liberdade de executar
+É a liberdade de executar
 
 136
 00:05:35,550 --> 00:05:36,900
@@ -587,7 +586,7 @@ o programa como você desejar.
 137
 00:05:36,950 --> 00:05:40,900
 Liberdade 1:
-é a liberdade de ajudar a si próprio.
+É a liberdade de ajudar a si próprio.
 
 138
 00:05:40,950 --> 00:05:42,900
@@ -595,7 +594,7 @@ Liberdade 1:
 
 139
 00:05:42,950 --> 00:05:45,900
-código fonte e mudá-lo
+código-fonte e mudá-lo
 para fazer o que quiser.
 
 140
@@ -645,19 +644,19 @@ O próximo desenvolvimento veio em 1991.
 
 151
 00:06:12,950 --> 00:06:13,500
-Um programador de computador finlandês
+Um programador finlandês
 
 152
 00:06:13,550 --> 00:06:14,900
-de 21 anos de idade
+de 21 anos de idade,
 
 153
 00:06:14,950 --> 00:06:16,600
-Linus Torvalds desenvolveu
+Linus Torvalds, desenvolveu
 
 154
 00:06:16,650 --> 00:06:18,900
-o que se conhece como kernel,
+o que se chama de kernel,
 
 155
 00:06:18,950 --> 00:06:21,900
@@ -671,7 +670,7 @@ ele funciona tão bem
 
 157
 00:06:25,950 --> 00:06:28,000
-em um celular, como em um
+em um celular como em um
 supercomputador.
 
 158
@@ -700,7 +699,7 @@ estima-se que haja
 
 164
 00:06:41,950 --> 00:06:43,500
-mas, como ele não é vendido,
+mas, como Linux não é vendido,
 
 165
 00:06:43,950 --> 00:06:46,900
@@ -745,7 +744,7 @@ Software Livre e Aberto.
 
 175
 00:07:09,600 --> 00:07:11,500
-- Sim, conheço Software Livre e Código Aberto
+- Sim, conheço Software Livre e Aberto
 
 176
 00:07:11,550 --> 00:07:12,900
@@ -786,7 +785,7 @@ os servidores de Web, de e-mail e de FTP,
 
 185
 00:07:33,550 --> 00:07:35,450
-Embora Richard Stallman queria dizer
+Embora Richard Stallman queira dizer
 
 186
 00:07:35,500 --> 00:07:37,500
@@ -826,7 +825,7 @@ uma organização dedicada à promoção
 
 195
 00:07:53,550 --> 00:07:56,400
-de Software Livre e de código aberto foi fundada
+de Software Livre e Aberto foi fundada
 
 196
 00:07:56,450 --> 00:07:57,800
@@ -847,15 +846,15 @@ por "aberto" e que isso evitaria a confusão.
 
 200
 00:08:06,150 --> 00:08:08,500
-Open Source pega Software Livre
+Open Source toma o Software Livre
 
 201
 00:08:08,550 --> 00:08:11,100
-e o promove a empresários.
+e promove-o a empresários.
 
 202
 00:08:11,150 --> 00:08:15,400
-Quando dizemos "free" isso não significa "livre"
+Quando dizemos "free", isso não significa "livre",
 
 203
 00:08:15,450 --> 00:08:17,200
@@ -867,7 +866,7 @@ não parece bom para empresários.
 
 205
 00:08:21,000 --> 00:08:23,800
-Então, renomeando FREE software como OPEN,
+Então, renomeando FREE como OPEN,
 
 206
 00:08:23,850 --> 00:08:26,500
@@ -875,11 +874,11 @@ Bruce Perens e seus colegas esperavam
 
 207
 00:08:26,550 --> 00:08:28,500
-que um novo modelo de negócios que surgisse.
+surgir um novo modelo de negócios.
 
 208
 00:08:29,300 --> 00:08:30,900
-E empresas como a desenvolvedora de software
+Empresas como a desenvolvedora de software
 
 209
 00:08:30,950 --> 00:08:33,500
@@ -913,16 +912,16 @@ exatamente o mesmo que costumávamos vender
 
 216
 00:08:50,150 --> 00:08:51,800
-quando nós vendíamos caixas bonitas
+quando vendíamos caixas bonitas
 
 217
 00:08:51,850 --> 00:08:53,900
-por que as pessoas
+pelas quais as pessoas
 pagavam quando escolhiam.
 
 218
 00:08:54,000 --> 00:08:56,100
-Mas as empresas de software proprietário
+Mas empresas de software proprietário
 
 219
 00:08:56,150 --> 00:08:57,100
@@ -947,7 +946,7 @@ Eles querem que o software
 
 224
 00:09:06,550 --> 00:09:08,900
-seja automatizado, que se torne mais simples,
+seja automatizado, que fique mais simples,
 
 225
 00:09:08,950 --> 00:09:11,200
@@ -972,11 +971,11 @@ porque, se você vive em um país
 230
 00:09:19,650 --> 00:09:22,300
 com uma quantidade enorme de
-potenciais engenheiros de software
+potenciais engenheiros de software,
 
 231
 00:09:22,350 --> 00:09:23,500
-com salários modestos
+com salários modestos,
 
 232
 00:09:23,700 --> 00:09:26,600
@@ -1033,7 +1032,7 @@ o próximo bilhão de pessoas,
 
 245
 00:09:51,050 --> 00:09:54,600
-é claro que vai usar software Open Source
+é claro que vamos usar software Open Source
 
 246
 00:09:54,650 --> 00:09:56,600
@@ -1086,12 +1085,12 @@ e do Ministério da Educação
 
 258
 00:10:30,150 --> 00:10:32,500
-é um provedor de Internet
-sem fins lucrativos,
+é um provedor de Internet,
+hardware e software
 
 259
 00:10:32,550 --> 00:10:36,200
-hardware e software para as escolas da nação.
+sem fins lucrativos para as escolas da nação.
 
 260
 00:10:36,900 --> 00:10:39,000
@@ -1124,7 +1123,7 @@ das empresas proprietárias
 
 267
 00:10:56,950 --> 00:10:57,900
-tentam proporcionar seus programas
+tentam fornecer seus programas
 
 268
 00:10:57,950 --> 00:10:59,500
@@ -1136,7 +1135,7 @@ para boas causas, como a SchoolNet.
 
 270
 00:11:02,950 --> 00:11:05,500
-Mas ela escolheu software Open Source,
+Mas ela escolheu Software Livre
 
 271
 00:11:05,550 --> 00:11:08,000
@@ -1153,7 +1152,7 @@ Ao ter uma solução Open Source,
 
 274
 00:11:13,350 --> 00:11:15,500
-da forma como nós a colocamos em jogo,
+da forma como nós a empregamos,
 
 275
 00:11:15,550 --> 00:11:17,100
@@ -1161,15 +1160,15 @@ nas escolas da Namíbia,
 
 276
 00:11:17,150 --> 00:11:19,100
-como parte de um sistema bem padronizado,
+como parte de um sistema padronizado,
 
 277
 00:11:19,150 --> 00:11:21,500
-distribuídas uniformemente por todo o país.
+distribuídas uniformemente por todo o país,
 
 278
 00:11:21,550 --> 00:11:22,900
-Nós não temos vírus,
+nós não temos vírus,
 
 279
 00:11:22,950 --> 00:11:26,100
@@ -1248,7 +1247,7 @@ Em áreas remotas, o sol fornece a energia.
 
 297
 00:12:05,100 --> 00:12:07,700
-No centro de computação HQ
+No centro de computação
 
 298
 00:12:07,750 --> 00:12:08,900
@@ -1256,15 +1255,15 @@ na capital Windhoek,
 
 299
 00:12:08,950 --> 00:12:10,100
-alunos ficam em fila
+os alunos fazem fila
 
 300
 00:12:10,150 --> 00:12:11,700
-depois da escola para, por uma hora,
+depois da escola para, por 1 hora,
 
 301
 00:12:11,750 --> 00:12:14,500
-utilizar o acesso gratuito a computadores
+ter o acesso gratuito a computadores
 
 302
 00:12:14,550 --> 00:12:15,900
@@ -1276,7 +1275,7 @@ CAPÍTULO 3: Software Livre
 
 304
 00:12:22,500 --> 00:12:23,500
-No Brasil
+No Brasil,
 
 305
 00:12:23,550 --> 00:12:24,500
@@ -1304,7 +1303,7 @@ mas a mudança no setor governamental
 
 311
 00:12:33,950 --> 00:12:36,900
-Grande empresas como a Intel
+Grandes empresas como a Intel
 
 312
 00:12:36,950 --> 00:12:38,900
@@ -1316,7 +1315,7 @@ A Intel tem sido muito ativa
 
 314
 00:12:40,550 --> 00:12:42,500
-em Software Livre e Open Source,
+em Software Livre e Aberto,
 
 315
 00:12:42,550 --> 00:12:45,500
@@ -1349,7 +1348,7 @@ e nós estamos trabalhando bastante
 
 322
 00:12:57,950 --> 00:13:00,100
-para otimizar nossos plataformas
+para otimizar nossas plataformas
 
 323
 00:13:00,150 --> 00:13:03,500
@@ -1437,7 +1436,7 @@ anteriormente.
 
 343
 00:13:51,300 --> 00:13:52,400
-Existe mesmo uma lei governamental
+Existe inclusive uma lei governamental
 
 344
 00:13:52,450 --> 00:13:55,000
@@ -1473,11 +1472,11 @@ mais simples de operar e mais barata.
 
 352
 00:14:08,550 --> 00:14:09,900
-Será que isso é porque ela está com medo de
+Será que isso é porque ela está com medo
 
 353
 00:14:09,950 --> 00:14:12,000
-que o Brasil definirá uma
+de que o Brasil definirá uma
 
 354
 00:14:12,050 --> 00:14:14,100
@@ -1556,7 +1555,7 @@ com parceria com o governo,
 
 372
 00:14:47,950 --> 00:14:49,700
-com parceria com as ONGs
+com parceria com ONGs
 
 373
 00:14:49,750 --> 00:14:50,900
@@ -1623,7 +1622,7 @@ para 2100 escolas públicas.
 
 388
 00:15:18,150 --> 00:15:19,900
-recentemente, foram entregues
+foram, recentemente, entregues
 
 389
 00:15:19,950 --> 00:15:21,900
@@ -1636,7 +1635,7 @@ de computadores de escolas
 
 391
 00:15:23,550 --> 00:15:24,500
-que serão rodarão
+que rodarão
 
 392
 00:15:24,550 --> 00:15:26,000
@@ -1654,15 +1653,15 @@ através de um gateway bidirecional
 
 395
 00:15:29,950 --> 00:15:32,900
-onde os professores de fazer o login, e contribuir
+onde os professores fazem o login e contribuem
 
 396
 00:15:32,950 --> 00:15:34,500
-para o pool de recursos educativos,
+para o conjunto de recursos educativos.
 
 397
 00:15:34,550 --> 00:15:36,500
-assim o software não é a única coisa
+Assim o software não é a única coisa
 
 398
 00:15:36,550 --> 00:15:37,500
