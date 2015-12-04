@@ -3752,213 +3752,213 @@ Parece que a própria Microsoft
 agora também acredita
 
 919
-00:35:30,950 -> 00:35:33,500
+00:35:30,950 --> 00:35:33,500
 nos encontros com a comunidade Open Source.
 
 920
-00:35:33,600 -> 00:35:34,500
+00:35:33,600 --> 00:35:34,500
 Quando olhamos para os desafios
 
 921
-00:35:34,550 -> 00:35:35,900
+00:35:34,550 --> 00:35:35,900
 que são enfrentados em todo o mundo
 
 922
-00:35:35,950 -> 00:35:37,500
+00:35:35,950 --> 00:35:37,500
 e quando olhamos para os vários modelos
 
 923
-00:35:37,550 -> 00:35:39,600
+00:35:37,550 --> 00:35:39,600
 que estão disponíveis para resolver esses desafios
 
 924
-00:35:39,650 -> 00:35:41,900
+00:35:39,650 --> 00:35:41,900
 reconhecemos há espaço para todos
 
 925
-00:35:41,950 -> 00:35:43,900
+00:35:41,950 --> 00:35:43,900
 a contribuir.
 
 926
-00:35:43,950 -> 00:35:45,900
+00:35:43,950 --> 00:35:45,900
 E a comunidade de fonte aberta novamente
 
 927
-00:35:45,950 -> 00:35:47,900
+00:35:45,950 --> 00:35:47,900
 estimulates inovação em software,
 
 928
-00:35:47,950 -> 00:35:49,500
+00:35:47,950 --> 00:35:49,500
 é algo que francamente
 
 929
-00:35:49,550 -> 00:35:51,900
+00:35:49,550 --> 00:35:51,900
 nos sentimos muito bem sobre isso.
 
 930
-00:35:51,950 -> 00:35:53,200
+00:35:51,950 --> 00:35:53,200
 Traz um monte de gente
 
 931
-00:35:53,250 -> 00:35:54,600
+00:35:53,250 --> 00:35:54,600
 para o desenvolvimento da comunidade,
 
 932
-00:35:54,650 -> 00:35:56,900
+00:35:54,650 --> 00:35:56,900
 que gera uma maior inovação em torno de software
 
 933
-00:35:56,950 -> 00:35:58,600
+00:35:56,950 --> 00:35:58,600
 e é algo que absolutamente
 
 934
-00:35:58,650 -> 00:36:01,500
+00:35:58,650 --> 00:36:01,500
 ver como sendo uma parceria com a Microsoft.
 
 935
-00:36:01,700 -> 00:36:02,900
+00:36:01,700 --> 00:36:02,900
 Fortune 500 e computador
 
 936
-00:36:02,950 -> 00:36:04,500
+00:36:02,950 --> 00:36:04,500
 hardware e software developer
 
 937
-00:36:04,550 -> 00:36:07,700
+00:36:04,550 --> 00:36:07,700
 Sun Microsystems, também estão usando Open Source.
 
 938
-00:36:07,950 -> 00:36:09,600
+00:36:07,950 --> 00:36:09,600
 Acho que vamos ver mais e mais
 
 939
-00:36:09,650 -> 00:36:14,900
+00:36:09,650 --> 00:36:14,900
 corporações e até mesmo as pequenas empresas
 
 940
-00:36:14,950 -> 00:36:17,400
+00:36:14,950 --> 00:36:17,400
 viragem para Software Livre
 
 941
-00:36:17,450 -> 00:36:18,900
+00:36:17,450 --> 00:36:18,900
 como a sua metodologia de desenvolvimento.
 
 942
-00:36:18,950 -> 00:36:21,500
+00:36:18,950 --> 00:36:21,500
 Certamente na Sun Microsystems
 
 943
-00:36:21,550 -> 00:36:23,100
+00:36:21,550 --> 00:36:23,100
 nós decidimos há 2 anos
 
 944
-00:36:23,150 -> 00:36:24,900
+00:36:23,150 --> 00:36:24,900
 que não fazia sentido
 
 945
-00:36:24,950 -> 00:36:26,900
+00:36:24,950 --> 00:36:26,900
 desenvolver o nosso software em segredo.
 
 946
-00:36:26,950 -> 00:36:28,900
+00:36:26,950 --> 00:36:28,900
 Que havia muito mais a ganhar
 
 947
-00:36:28,950 -> 00:36:30,500
+00:36:28,950 --> 00:36:30,500
 por trabalhar com o global
 
 948
-00:36:30,550 -> 00:36:32,500
+00:36:30,550 --> 00:36:32,500
 multidão de peritos
 
 949
-00:36:32,550 -> 00:36:35,400
+00:36:32,550 --> 00:36:35,400
 do que por tentar identificar
 
 950
-00:36:35,450 -> 00:36:38,700
+00:36:35,450 --> 00:36:38,700
 que o verdadeiro gênio e estavam a tentar sua contratação.
 
 951
-00:36:38,950 -> 00:36:40,700
+00:36:38,950 --> 00:36:40,700
 Então, parece que há um número
 
 952
-00:36:40,750 -> 00:36:43,500
+00:36:40,750 --> 00:36:43,500
 das razões que tornam a vida mais fácil FOSS maio
 
 953
-00:36:43,550 -> 00:36:44,700
+00:36:43,550 --> 00:36:44,700
 digitalmente para privar
 
 954
-00:36:44,750 -> 00:36:46,900
+00:36:44,750 --> 00:36:46,900
 aqui não estão à frente dos custos e, portanto,
 
 955
-00:36:46,950 -> 00:36:48,900
+00:36:46,950 --> 00:36:48,900
 não precisam de ser tentado por softwares piratas
 
 956
-00:36:48,950 -> 00:37:52,900
+00:36:48,950 --> 00:37:52,900
 geeks e não-geeks podem criar comunidades virtuais
 
 957
-00:36:52,950 -> 00:36:53,900
+00:36:52,950 --> 00:36:53,900
 para inventar novos softwares
 
 958
-00:36:53,950 -> 00:36:55,900
+00:36:53,950 --> 00:36:55,900
 taxas de serviço pode ser o mesmo ou acentuada
 
 959
-00:36:55,950 -> 00:36:57,900
+00:36:55,950 --> 00:36:57,900
 do que para o software proprietário,
 
 960
-00:36:57,950 -> 00:37:00,900
+00:36:57,950 --> 00:37:00,900
 mas no mundo em desenvolvimento, onde trabalhadores qualificados
 
 961
-00:37:00,950 -> 00:37:02,900
+00:37:00,950 --> 00:37:02,900
 é relativamente barato que é menos de um problema.
 
 962
-00:37:02,950 -> 00:37:06,700
+00:37:02,950 --> 00:37:06,700
 e da adaptabilidade do software também significa
 
 963
-00:37:06,750 -> 00:37:08,900
+00:37:06,750 --> 00:37:08,900
 que os programas podem ser escritos em línguas locais,
 
 964
-00:37:08,950 -> 00:37:10,500
+00:37:08,950 --> 00:37:10,500
 a grande maioria das quais não são
 
 965
-00:37:10,550 -> 00:37:13,200
+00:37:10,550 --> 00:37:13,200
 encontrava prevista no fora-de-prateleira do software
 
 966
-00:37:13,250 -> 00:37:14,500
+00:37:13,250 --> 00:37:14,500
 Isso quer dizer que será FOSS
 
 967
-00:37:14,550 -> 00:37:16,000
+00:37:14,550 --> 00:37:16,000
 a ponte sobre o divisão digital?
 
 968
-00:37:16,050 -> 00:37:17,900
+00:37:16,050 --> 00:37:17,900
 Ninguém sabe com certeza.
 
 969
-00:37:17,950 -> 00:37:20,900
+00:37:17,950 --> 00:37:20,900
 Mas o que é certo é que os evangelistas
 
 970
-00:37:20,950 -> 00:37:22,900
+00:37:20,950 --> 00:37:22,900
 de Software Livre e open source
 
 971
-00:37:22,950 -> 00:37:25,200
+00:37:22,950 --> 00:37:25,200
 não vão parar suas recomendações.
